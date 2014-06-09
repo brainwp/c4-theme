@@ -1,0 +1,1185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fudge\n"
+"POT-Creation-Date: 2013-09-03 18:48+0100\n"
+"PO-Revision-Date: 2014-01-10 17:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:4
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: ../404.php:5
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Извините, но запрашиваемую Вами страницу невозможно найти. Возможно, Вам "
+"может помочь поиск."
+
+#: ../archive.php:32
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Старые записи"
+
+#: ../archive.php:33
+msgid "Newer Entries &raquo;"
+msgstr "Новые записи &raquo;"
+
+#: ../comments.php:8
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Эта публикация защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:27
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../comments.php:35
+msgid "Trackbacks/Pingbacks"
+msgstr "Трэкбеки/Пингбеки"
+
+#: ../comments.php:42 ../functions.php:888
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерирования."
+
+#: ../comments.php:65
+msgid "Logged in as"
+msgstr "Вошел(-а) в систему как"
+
+#: ../comments.php:65
+msgid "Log out of this account"
+msgstr "Выйти из этой учетной записи"
+
+#: ../comments.php:65
+msgid "Log out &raquo;"
+msgstr "Выход &raquo;"
+
+#: ../comments.php:68
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:69
+msgid "Email"
+msgstr "E-mail"
+
+#: ../comments.php:70
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: ../comments.php:74
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../comments.php:76
+msgid "Leave Comment"
+msgstr "Оставить комментарий"
+
+#: ../functions.php:57
+msgid "Close Window"
+msgstr "Закрыть окно"
+
+#: ../functions.php:58
+msgid "LOCATION:"
+msgstr "МЕСТО:"
+
+#: ../functions.php:59
+msgid "DATE:"
+msgstr "ДАТА:"
+
+#: ../functions.php:60
+msgid "TIME:"
+msgstr "ВРЕМЯ:"
+
+#: ../functions.php:61
+msgid "Company:"
+msgstr "Компания:"
+
+#: ../functions.php:62
+msgid "Short Bio:"
+msgstr "Краткая биография:"
+
+#: ../functions.php:63
+msgid "Website:"
+msgstr "Веб-сайт:"
+
+#: ../functions.php:64
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../functions.php:65 ../functions.php:237 ../functions.php:247
+msgid "Sessions"
+msgstr "Сессии"
+
+#: ../functions.php:66
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../functions.php:67
+msgid "This field must be filled out."
+msgstr "Это поле должно быть заполнено."
+
+#: ../functions.php:68
+msgid "Sorry! You've entered an invalid email."
+msgstr "Извините! Вы указали неверный e-mail."
+
+#: ../functions.php:69
+msgid "<strong>Thanks!</strong> Your email has been delivered."
+msgstr "<strong>Спасибо!</strong> Ваш email передан."
+
+#: ../functions.php:70
+msgid "<strong>Sorry!</strong> Your email has not been delivered."
+msgstr "<strong>Извините!</strong> Ваш e-mail не передан."
+
+#: ../functions.php:141 ../functions.php:151
+msgid "Sponsors"
+msgstr "Спонсоры"
+
+#: ../functions.php:142
+msgid "Sponsor"
+msgstr "Спонсор"
+
+#: ../functions.php:143 ../functions.php:166 ../functions.php:189
+#: ../functions.php:212 ../functions.php:239
+msgid "Add New"
+msgstr "Добавить нового"
+
+#: ../functions.php:144
+msgid "Add New Sponsor"
+msgstr "Добавить нового спонсора"
+
+#: ../functions.php:145
+msgid "Edit Sponsor"
+msgstr "Редактировать спонсора"
+
+#: ../functions.php:146
+msgid "New Sponsor"
+msgstr "Новый спонсор"
+
+#: ../functions.php:147
+msgid "View Sponsor"
+msgstr "Просмотреть спонсора"
+
+#: ../functions.php:148
+msgid "Search Sponsors"
+msgstr "Поиск спонсоров"
+
+#: ../functions.php:149
+msgid "No Sponsors found"
+msgstr "Спонсоры не найдены"
+
+#: ../functions.php:150
+msgid "No Sponsors found in trash"
+msgstr "В корзине спонсоры не найдены"
+
+#: ../functions.php:164 ../functions.php:165 ../functions.php:174
+msgid "Event Media"
+msgstr "Медиа событие"
+
+#: ../functions.php:167
+msgid "Add New Event Media"
+msgstr "Добавить новое медиа событие"
+
+#: ../functions.php:168
+msgid "Edit Event Media"
+msgstr "Редактировать медиа событие"
+
+#: ../functions.php:169
+msgid "New Event Media"
+msgstr "Новое медиа событие"
+
+#: ../functions.php:170
+msgid "View Event Media"
+msgstr "Просмотр медиа события"
+
+#: ../functions.php:171
+msgid "Search Event Media"
+msgstr "Поиск медиа события"
+
+#: ../functions.php:172
+msgid "No Event Media found"
+msgstr "Медиа события не найдены"
+
+#: ../functions.php:173
+msgid "No Event Media found in trash"
+msgstr "В корзине медиа события не найдены"
+
+#: ../functions.php:187 ../functions.php:197
+msgid "Points of Interest"
+msgstr "Интересные события"
+
+#: ../functions.php:188
+msgid "Point of Interest"
+msgstr "интересное событие"
+
+#: ../functions.php:190
+msgid "Add New Point of Interest"
+msgstr "Добавить новое интересное событие"
+
+#: ../functions.php:191
+msgid "Edit Point of Interest"
+msgstr "Редактировать интересное событие"
+
+#: ../functions.php:192
+msgid "New Point of Interest"
+msgstr "Новое интересное событие"
+
+#: ../functions.php:193
+msgid "View Point of Interest"
+msgstr "Просмотр интересного события"
+
+#: ../functions.php:194
+msgid "Search Points of Interest"
+msgstr "Поиск интересного события"
+
+#: ../functions.php:195
+msgid "No Points of Interest found"
+msgstr "Интересные события не найдены"
+
+#: ../functions.php:196
+msgid "No Points of Interest found in trash"
+msgstr "В корзине интересные события не найдены"
+
+#: ../functions.php:210 ../functions.php:220 ../functions.php:377
+msgid "Speakers"
+msgstr "Докладчики"
+
+#: ../functions.php:211
+msgid "Speaker"
+msgstr "Докладчик"
+
+#: ../functions.php:213
+msgid "Add New Speaker"
+msgstr "Добавить нового докладчика"
+
+#: ../functions.php:214
+msgid "Edit Speaker"
+msgstr "Редактировать докладчика"
+
+#: ../functions.php:215
+msgid "New Speaker"
+msgstr "Новый докладчик"
+
+#: ../functions.php:216
+msgid "View Speaker"
+msgstr "Просмотр докладчика"
+
+#: ../functions.php:217
+msgid "Search Speakers"
+msgstr "Поиск докладчиков"
+
+#: ../functions.php:218
+msgid "No Speakers found"
+msgstr "Докладчики не найдены"
+
+#: ../functions.php:219
+msgid "No Speakers found in trash"
+msgstr "В корзине докладчики не найдены"
+
+#: ../functions.php:238
+msgid "Session"
+msgstr "Сессия"
+
+#: ../functions.php:240
+msgid "Add New Session"
+msgstr "Добавить новую сессию"
+
+#: ../functions.php:241
+msgid "Edit Session"
+msgstr "Редактировать сессию"
+
+#: ../functions.php:242
+msgid "New Session"
+msgstr "Новая сессия"
+
+#: ../functions.php:243
+msgid "View Session"
+msgstr "Просмотр сессии"
+
+#: ../functions.php:244
+msgid "Search Sessions"
+msgstr "Поиск сессий"
+
+#: ../functions.php:245
+msgid "No Sessions found"
+msgstr "Сессии не найдены"
+
+#: ../functions.php:246
+msgid "No Sessions found in trash"
+msgstr "В корзине сессии не найдены"
+
+#: ../functions.php:268 ../functions.php:278
+msgid "Tiers"
+msgstr "Уровни"
+
+#: ../functions.php:269
+msgid "Tier"
+msgstr "Уровень"
+
+#: ../functions.php:270
+msgid "Search Tiers"
+msgstr "Поиск уровней"
+
+#: ../functions.php:271
+msgid "All Tiers"
+msgstr "Все уровни"
+
+#: ../functions.php:272
+msgid "Parent Tier"
+msgstr "Родительский уровень"
+
+#: ../functions.php:273
+msgid "Parent Tier:"
+msgstr "Родительский уровень:"
+
+#: ../functions.php:274
+msgid "Edit Tier"
+msgstr "Редактировать уровень"
+
+#: ../functions.php:275
+msgid "Update Tier"
+msgstr "Обновить уровень"
+
+#: ../functions.php:276
+msgid "Add New Tier"
+msgstr "Добавить новый уровень"
+
+#: ../functions.php:277
+msgid "New Tier"
+msgstr "Новый уровень"
+
+#: ../functions.php:286 ../functions.php:296
+msgid "Media Types"
+msgstr "Медиа типы"
+
+#: ../functions.php:287
+msgid "Media Type"
+msgstr "Медиа тип"
+
+#: ../functions.php:288
+msgid "Search Media Types"
+msgstr "Поиск медиа типов"
+
+#: ../functions.php:289
+msgid "All Media Types"
+msgstr "Все медиа типы"
+
+#: ../functions.php:290
+msgid "Parent Media Type"
+msgstr "Родительский медиа тип"
+
+#: ../functions.php:291
+msgid "Parent Media Type:"
+msgstr "Родительский медиа тип:"
+
+#: ../functions.php:292
+msgid "Edit Media Type"
+msgstr "Редактировать медиа тип"
+
+#: ../functions.php:293
+msgid "Update Media Type"
+msgstr "Обновить медиа тип"
+
+#: ../functions.php:294
+msgid "Add New Media Type"
+msgstr "Добавить новый медиа тип"
+
+#: ../functions.php:295
+msgid "New Media Type"
+msgstr "Новый медиа тип"
+
+#: ../functions.php:304
+msgid "Session Tracks"
+msgstr "Треки сессии"
+
+#: ../functions.php:305
+msgid "Session Track"
+msgstr "Трек сессии"
+
+#: ../functions.php:306
+msgid "Search Session Tracks"
+msgstr "Поиск треков сессии"
+
+#: ../functions.php:307
+msgid "All Session Tracks"
+msgstr "Все треки сессии"
+
+#: ../functions.php:308
+msgid "Parent Session Track"
+msgstr "Родительский трек сессии"
+
+#: ../functions.php:309
+msgid "Parent Session Track:"
+msgstr "Родительский трек сессии:"
+
+#: ../functions.php:310
+msgid "Edit Session Track"
+msgstr "Редактировать трек сессии"
+
+#: ../functions.php:311
+msgid "Update Session Track"
+msgstr "Обновить трек сессии"
+
+#: ../functions.php:312
+msgid "Add New Session Track"
+msgstr "Добавить новый трек сессии"
+
+#: ../functions.php:313
+msgid "New Session Track"
+msgstr "Новый трек сессии"
+
+#: ../functions.php:314
+msgid "Tracks"
+msgstr "Треки"
+
+#: ../functions.php:322
+msgid "Session Locations"
+msgstr "Места сессии"
+
+#: ../functions.php:323
+msgid "Session Location"
+msgstr "Место сессии"
+
+#: ../functions.php:324
+msgid "Search Session Locations"
+msgstr "Поиск мест сессии"
+
+#: ../functions.php:325
+msgid "All Session Locations"
+msgstr "Все места"
+
+#: ../functions.php:326
+msgid "Parent Session Location"
+msgstr "Родительское место сессии"
+
+#: ../functions.php:327
+msgid "Parent Session Location:"
+msgstr "Родительское место сессии:"
+
+#: ../functions.php:328
+msgid "Edit Session Location"
+msgstr "Редактировать место сессии"
+
+#: ../functions.php:329
+msgid "Update Session Location"
+msgstr "Обновить место сессии"
+
+#: ../functions.php:330
+msgid "Add New Session Location"
+msgstr "Добавить ноывое место сессии"
+
+#: ../functions.php:331
+msgid "New Session Location"
+msgstr "Новое место сессии"
+
+#: ../functions.php:332
+msgid "Locations"
+msgstr "Места"
+
+#: ../functions.php:343 ../functions.php:356
+msgid "Color"
+msgstr "Цвет"
+
+#: ../functions.php:372
+msgid "Media Content"
+msgstr "Медиа содержание"
+
+#: ../functions.php:373
+msgid "Additional Content"
+msgstr "Дополнительное содержание"
+
+#: ../functions.php:374
+msgid "POI Address Info"
+msgstr "Информация об адресе интересного места"
+
+#: ../functions.php:375
+msgid "Speaker Details"
+msgstr "Информация о докладчике"
+
+#: ../functions.php:376
+msgid "Session Details"
+msgstr "информация о сессии"
+
+#: ../functions.php:378
+msgid "Sponsor Details"
+msgstr "Информация о спонсорах"
+
+#: ../functions.php:382
+msgid "Event Over Content"
+msgstr "Содержание события"
+
+#: ../functions.php:390
+msgid "Video URL"
+msgstr "Видео URL"
+
+#: ../functions.php:400 ../functions.php:415
+msgid "Top Tagline"
+msgstr "Главный слоган"
+
+#: ../functions.php:411
+msgid "Heading"
+msgstr "Заглавие"
+
+#: ../functions.php:425
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../functions.php:439
+msgid "Street Address 1"
+msgstr "Адрес"
+
+#: ../functions.php:443
+msgid "Street Address 2"
+msgstr "Продолжение адреса"
+
+#: ../functions.php:447
+msgid "City"
+msgstr "Город"
+
+#: ../functions.php:451
+msgid "Postal Code / Zip Code"
+msgstr "Индекс"
+
+#: ../functions.php:455
+msgid "Country"
+msgstr "Страна"
+
+#: ../functions.php:468
+msgid "Company"
+msgstr "Компания"
+
+#: ../functions.php:472
+msgid "Short Bio"
+msgstr "Краткая биография"
+
+#: ../functions.php:481 ../functions.php:804
+msgid "Twitter Username"
+msgstr "Имя пользователя в Twitter"
+
+#: ../functions.php:504
+msgid "Date"
+msgstr "Дата"
+
+#: ../functions.php:509
+msgid "Start Time"
+msgstr "Время начала"
+
+#: ../functions.php:511 ../functions.php:516
+msgid "Format hh:mm"
+msgstr "Формат чч:мм"
+
+#: ../functions.php:514
+msgid "End Time"
+msgstr "Время окончания"
+
+#: ../functions.php:615
+msgid "General Site Options"
+msgstr "Общие опции сайта"
+
+#: ../functions.php:628
+msgid "Color Palette"
+msgstr "Цветовая палитра"
+
+#: ../functions.php:655
+msgid "Logo"
+msgstr "Логотип"
+
+#: ../functions.php:669
+msgid "Footer Content"
+msgstr "Футер"
+
+#: ../functions.php:678
+msgid "Homepage Options"
+msgstr "Опции главной страницы"
+
+#: ../functions.php:691
+msgid "Hero Background"
+msgstr "Фон героя"
+
+#: ../functions.php:705
+msgid "Event Title"
+msgstr "Название события"
+
+#: ../functions.php:719
+msgid "Event Tagline"
+msgstr "Слоган события"
+
+#: ../functions.php:727
+msgid "Event Over Settings"
+msgstr "Настройки события"
+
+#: ../functions.php:740
+msgid "Main Title"
+msgstr "Основное название"
+
+#: ../functions.php:754
+msgid "Main tagline"
+msgstr "Основной слоган"
+
+#: ../functions.php:768
+msgid "Switch to Event Over Content?"
+msgstr "Переключить на содержание события?"
+
+#: ../functions.php:777
+msgid "Social Media &amp; Connecting"
+msgstr "Социальные сети и связи"
+
+#: ../functions.php:790
+msgid "Email Address"
+msgstr "Адрес e-mail"
+
+#: ../functions.php:818
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: ../functions.php:832
+msgid "Flickr Username"
+msgstr "Имя пользователя в Flickr"
+
+#: ../functions.php:846
+msgid "Full LinkedIn URL"
+msgstr "Полная LinkedIn URL"
+
+#: ../functions.php:860
+msgid "Pinterest Username"
+msgstr "Имя пользователя в Pinterest"
+
+#: ../functions.php:893
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions.php:894
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../functions.php:894
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: ../functions.php:1352
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again.!"
+msgstr ""
+"Неправильный ввод с информации с изображения. Вернитесь и попробуйте снова!"
+
+#: ../functions.php:1358
+msgid "Forgot your name!"
+msgstr "Забыли свое имя!"
+
+#: ../functions.php:1365
+msgid "Forgot to enter in your e-mail address."
+msgstr "Забыли ввести свой адрес e-mail."
+
+#: ../functions.php:1368
+msgid "You entered an invalid email address."
+msgstr "Вы ввели неверный адрес e-mail."
+
+#: ../functions.php:1376
+msgid "You forgot to enter a message!"
+msgstr "Вы забыли написать сообщение!"
+
+#: ../functions.php:1387
+msgid "Submitted message from "
+msgstr "Подано сообщение от "
+
+#: ../functions.php:1388
+msgid "Name:"
+msgstr "Имя:"
+
+#: ../functions.php:1388
+msgid "Email:"
+msgstr "E-mail:"
+
+#: ../functions.php:1388
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: ../functions.php:1388
+msgid "Comments:"
+msgstr "Комментарии:"
+
+#: ../functions.php:1394
+msgid "Your email was sent."
+msgstr "Ваше письмо  отправлено."
+
+#: ../functions.php:1396
+msgid "Error submitting the form"
+msgstr "Ошибка отправки формы"
+
+#: ../functions.php:1418
+msgid "Fudge Dummy Data"
+msgstr "Фиктивные данные"
+
+#: ../functions.php:1421
+msgid "Check to generate dummy data"
+msgstr "Отметьте для генерирования фиктивных данных"
+
+#: ../functions.php:1423
+msgid "Generate"
+msgstr "Генерировать"
+
+#: ../functions.php:1437
+msgid "Order"
+msgstr "Заказать"
+
+#: ../functions.php:1460 ../functions.php:1463 ../functions.php:1466
+#: ../functions.php:1469 ../functions.php:1472
+msgid " ago"
+msgstr " назад"
+
+#: ../functions.php:1473
+msgid "on "
+msgstr "на"
+
+#: ../header.php:27
+msgid "Event Over"
+msgstr "Событие"
+
+#: ../header.php:35
+msgid "Register Now"
+msgstr "Зарегистрироваться сейчас"
+
+#: ../page-twitter-full-screen.php:25
+msgid "Back"
+msgstr "Назад"
+
+#: ../search.php:3
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: ../search.php:9
+msgid "No posts found. Try a different search?"
+msgstr "Публикации не найдены. Попробовать другой поиск?"
+
+#: ../searchform.php:3
+msgid "search"
+msgstr "поиск"
+
+#: ../single.php:12
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../single.php:24
+msgid "Back to list"
+msgstr "Назад к списку"
+
+#: ../single.php:24
+msgid "&laquo; Back To List"
+msgstr "&laquo; Назад к списку"
+
+#: ../espresso/templates/registration_page.php:295
+msgid ""
+"We are sorry but this event has reached the maximum number of attendees!"
+msgstr ""
+"Извините, но это событие достигло максимального количества посетителей!"
+
+#: ../espresso/templates/registration_page.php:296
+msgid "Please check back in the event someone cancels."
+msgstr "Пожалуйста, возвращайтесь и проверяйте, кто-то может отказаться."
+
+#: ../espresso/templates/registration_page.php:297
+msgid "Current Number of Attendees:"
+msgstr "Текущее количество посетителей:"
+
+#: ../espresso/templates/registration_page.php:303
+msgid "Join Waiting List"
+msgstr "Записаться в список ожидания"
+
+#: ../espresso/templates/registration_page.php:370
+msgid "This event has expired or is no longer available."
+msgstr "Срок действия этого события истек или оно больше недоступно."
+
+#: ../espresso/templates/registration_page_display.php:21
+msgid "This event has passed.</h3>"
+msgstr "Это событие прошло.</h3>"
+
+#: ../espresso/templates/registration_page_display.php:31
+msgid "We are sorry but registration for this event is now closed."
+msgstr "Извините, но регистрация на это событие сейчас закрыта."
+
+#: ../espresso/templates/registration_page_display.php:36
+msgid ""
+"Please <a href=\"contact\" title=\"contact us\">contact us</a> if you would "
+"like to know if spaces are still available."
+msgstr ""
+"Пожалуйста, <a href=\"contact\" title=\"contact us\">свяжитесь с нами</a>, "
+"если Вы хотите знать есть ли еще места."
+
+#: ../espresso/templates/registration_page_display.php:51
+msgid "We are sorry but this event is not yet open for registration."
+msgstr "Извините, но это событие еще не открыто для регистрации."
+
+#: ../espresso/templates/registration_page_display.php:57
+msgid "You will be able to register starting "
+msgstr "Вы сможете зарегистрироваться, начиная с "
+
+#: ../espresso/templates/registration_page_display.php:101
+#: ../espresso/templates/registration_page_display.php:109
+msgid "Submit Registration"
+msgstr "Подать регистрацию"
+
+#: ../functions/widget-connect.php:9
+msgid ""
+"Shows a section displaying icons for the social media links filled out in "
+"the Customizer"
+msgstr ""
+"Показывает раздел, отображающий иконки на социальные сети с ссылками, "
+"размещенные в Настройщике"
+
+#: ../functions/widget-connect.php:29 ../functions/widget-contact.php:37
+#: ../functions/widget-event-description.php:31
+#: ../functions/widget-media.php:35 ../functions/widget-news.php:33
+#: ../functions/widget-registration.php:35 ../functions/widget-schedule.php:37
+#: ../functions/widget-speakers.php:35 ../functions/widget-sponsors.php:32
+msgid "Title:"
+msgstr "Название:"
+
+#: ../functions/widget-connect.php:32 ../functions/widget-contact.php:52
+#: ../functions/widget-event-description.php:37
+#: ../functions/widget-event-info.php:47 ../functions/widget-explore.php:42
+#: ../functions/widget-facebook-rsvp.php:38 ../functions/widget-media.php:47
+#: ../functions/widget-news.php:42 ../functions/widget-registration.php:47
+#: ../functions/widget-schedule.php:52 ../functions/widget-speakers.php:47
+#: ../functions/widget-sponsors.php:38 ../functions/widget-timer.php:47
+#: ../functions/widget-twitter.php:41
+msgid "Add to main navigation?"
+msgstr "Добавить к основной навигации?"
+
+#: ../functions/widget-connect.php:34 ../functions/widget-contact.php:54
+#: ../functions/widget-event-info.php:49 ../functions/widget-explore.php:44
+#: ../functions/widget-facebook-rsvp.php:40 ../functions/widget-media.php:49
+#: ../functions/widget-news.php:44 ../functions/widget-schedule.php:54
+#: ../functions/widget-speakers.php:49 ../functions/widget-sponsors.php:40
+#: ../functions/widget-timer.php:49 ../functions/widget-twitter.php:43
+msgid "(Enter desired menu link text)"
+msgstr "(Введите желаемый текст ссылки меню)"
+
+#: ../functions/widget-contact.php:9 ../functions/widget-news.php:9
+msgid "Shows a section displaying the latest four posts"
+msgstr "Показывает раздел, отображающий последние четыре публикации"
+
+#: ../functions/widget-contact.php:40 ../functions/widget-media.php:38
+#: ../functions/widget-news.php:36 ../functions/widget-registration.php:38
+#: ../functions/widget-schedule.php:40 ../functions/widget-speakers.php:38
+#: ../functions/widget-sponsors.php:35
+msgid "Tagline:"
+msgstr "Слоган:"
+
+#: ../functions/widget-contact.php:43
+msgid "Email Address To Send Forms To:"
+msgstr "Адрес e-mail для отправки форм:"
+
+#: ../functions/widget-contact.php:46
+msgid "Recaptcha Public Key:"
+msgstr "Открытый ключ Recaptcha"
+
+#: ../functions/widget-contact.php:49
+msgid "Recaptcha Private Key:"
+msgstr "Закрытый ключ Recaptcha"
+
+#: ../functions/widget-event-description.php:9
+msgid "Shows the event description"
+msgstr "Показывает описание события"
+
+#: ../functions/widget-event-description.php:34
+msgid "Content:"
+msgstr "Содержание:"
+
+#: ../functions/widget-event-info.php:9
+msgid "Shows a section displaying event time, date and location"
+msgstr "Показывает раздел, отображающий время, дату и место события"
+
+#: ../functions/widget-event-info.php:35
+msgid "Event Date:"
+msgstr "Дата события:"
+
+#: ../functions/widget-event-info.php:38
+msgid "Event Starting Time:"
+msgstr "Время начала события:"
+
+#: ../functions/widget-event-info.php:41
+msgid "Event City &amp; Country:"
+msgstr "Город и страна события:"
+
+#: ../functions/widget-event-info.php:44
+msgid "Event Location:"
+msgstr "Место события:"
+
+#: ../functions/widget-event-info.php:70
+msgid "When"
+msgstr "Когда"
+
+#: ../functions/widget-event-info.php:72
+msgid "Starting at"
+msgstr "Начало в"
+
+#: ../functions/widget-event-info.php:75
+msgid "Where"
+msgstr "Где"
+
+#: ../functions/widget-explore.php:9
+msgid "Shows a section displaying points of interest & maps"
+msgstr "Показывает раздел, отображающий интересные места и карты"
+
+#: ../functions/widget-explore.php:33
+msgid "Main Title:"
+msgstr "Основное название:"
+
+#: ../functions/widget-explore.php:36
+msgid "Secondary Title"
+msgstr "Второе название"
+
+#: ../functions/widget-explore.php:39
+msgid "Tagline"
+msgstr "Слоган"
+
+#: ../functions/widget-facebook-rsvp.php:35
+msgid "Link to Event on Facebook:"
+msgstr "Ссылка на событие на Facebook:"
+
+#: ../functions/widget-facebook-rsvp.php:42
+msgid "Event ID:"
+msgstr "ID события:"
+
+#: ../functions/widget-facebook-rsvp.php:45
+msgid "App ID:"
+msgstr "ID приложения:"
+
+#: ../functions/widget-facebook-rsvp.php:48
+msgid "Secret Key:"
+msgstr "Секретный ключ:"
+
+#: ../functions/widget-facebook-rsvp.php:76
+msgid "Yes"
+msgstr "Да"
+
+#: ../functions/widget-facebook-rsvp.php:77
+msgid "Maybe"
+msgstr "Возможно"
+
+#: ../functions/widget-facebook-rsvp.php:78
+msgid "No"
+msgstr "Нет"
+
+#: ../functions/widget-facebook-rsvp.php:79
+msgid "View on Facebook"
+msgstr "Смотреть на Facebook"
+
+#: ../functions/widget-media.php:9
+msgid ""
+"Shows a section displaying media by category in the media custom post type"
+msgstr ""
+"Показывает раздел, отображающий медиа по категории в пользовательском типе "
+"публикации Медиа"
+
+#: ../functions/widget-media.php:41 ../functions/widget-schedule.php:46
+#: ../functions/widget-speakers.php:41
+msgid "\"View More\" Button Text:"
+msgstr "\"Смотреть больше\" Кнопка текста:"
+
+#: ../functions/widget-media.php:44 ../functions/widget-schedule.php:49
+#: ../functions/widget-speakers.php:44
+msgid "\"View Less\" Button Text:"
+msgstr "\"Смотреть меньше\" Кнопка текста:"
+
+#: ../functions/widget-media.php:71 ../functions/widget-media.php:89
+msgid "All Media"
+msgstr "Вся медиа"
+
+#: ../functions/widget-media.php:71 ../functions/widget-media.php:89
+msgid "All"
+msgstr "Все"
+
+#: ../functions/widget-media.php:87
+msgid "Filter Results"
+msgstr "Результаты сортировки"
+
+#: ../functions/widget-media.php:107 ../functions/widget-schedule.php:142
+#: ../functions/widget-speakers.php:73
+msgid "View Less"
+msgstr "Смотреть меньше"
+
+#: ../functions/widget-media.php:108 ../functions/widget-schedule.php:143
+#: ../functions/widget-speakers.php:74
+msgid "View More"
+msgstr "Смотреть больше"
+
+#: ../functions/widget-news.php:39
+msgid "Link:"
+msgstr "Ссылка:"
+
+#: ../functions/widget-news.php:80
+msgid "View all News"
+msgstr "Смотреть все новости"
+
+#: ../functions/widget-quotes.php:9 ../functions/widget-twitter.php:9
+msgid "Shows a section displaying latest tweets"
+msgstr "Показывает раздел, отображающий последние твиты"
+
+#: ../functions/widget-quotes.php:33 ../functions/widget-quotes.php:41
+msgid "Quote"
+msgstr "Цитата"
+
+#: ../functions/widget-quotes.php:34 ../functions/widget-quotes.php:42
+msgid "Text"
+msgstr "Текст"
+
+#: ../functions/widget-quotes.php:37 ../functions/widget-quotes.php:45
+msgid "Time"
+msgstr "Время"
+
+#: ../functions/widget-registration.php:9
+msgid "Shows registration information & ticket display"
+msgstr "Показывает регистрационную информацию и билет"
+
+#: ../functions/widget-registration.php:41 ../functions/widget-schedule.php:43
+msgid "Main Text:"
+msgstr "Основной текст:"
+
+#: ../functions/widget-registration.php:44
+msgid "Registration Embed Code:"
+msgstr "Регистрационный код для вставки"
+
+#: ../functions/widget-schedule.php:9
+msgid "Displays Event Schedule widget"
+msgstr "Отображает график события"
+
+#: ../functions/widget-schedule.php:95 ../functions/widget-schedule.php:111
+msgid "Filter by Track"
+msgstr "Сортировка по треку"
+
+#: ../functions/widget-schedule.php:111
+msgid "Filter By Track"
+msgstr "Сортировка по треку"
+
+#: ../functions/widget-schedule.php:113 ../functions/widget-schedule.php:128
+msgid "Reset"
+msgstr "Сброс"
+
+#: ../functions/widget-schedule.php:126
+msgid "Filter by Location"
+msgstr "Сортировка по месту"
+
+#: ../functions/widget-schedule.php:126
+msgid "Filter By Location"
+msgstr "Сортировка по месту"
+
+#: ../functions/widget-speakers.php:9
+msgid ""
+"Shows a section displaying speakers created in the Speakers custom post type"
+msgstr ""
+"Показывает раздел, отображающий докладчиков, созданных в пользовательском "
+"типе публикаций Заказчики"
+
+#: ../functions/widget-sponsors.php:9
+msgid ""
+"Shows a section displaying sponsors by tier type created in the Sponsors "
+"custom post type"
+msgstr ""
+"Показывает раздел, отображающий спонсоров по их типу уровня, созданных в "
+"пользовательском типе публикаций Спонсоры"
+
+#: ../functions/widget-sponsors.php:96
+msgid "Sponsor this event"
+msgstr "Спонсировать это событие"
+
+#: ../functions/widget-sponsors.php:96
+msgid "Sponsor The Event"
+msgstr "Спонсировать событие"
+
+#: ../functions/widget-timer.php:9
+msgid "Shows a section displaying the event coundown clock"
+msgstr "Показывает раздел, отображающий часы с отсчетом времени до события"
+
+#: ../functions/widget-timer.php:51
+msgid "Countdown Date:"
+msgstr "Отсчет времени:"
+
+#: ../functions/widget-timer.php:76
+msgid "Days"
+msgstr "Дни"
+
+#: ../functions/widget-timer.php:81
+msgid "Hours"
+msgstr "Часы"
+
+#: ../functions/widget-timer.php:86
+msgid "Minutes"
+msgstr "Минуты"
+
+#: ../functions/widget-timer.php:91
+msgid "Seconds"
+msgstr "Секунды"
+
+#: ../functions/widget-twitter.php:37
+msgid "Event Hashtag Keyword:"
+msgstr "Ключевое слово хэштег события"
+
+#: ../functions/widget-twitter.php:39
+msgid "(Leave out the #)"
+msgstr "(Покинуть №)"
+
+#: ../functions/widget-twitter.php:45
+msgid "Access Token:"
+msgstr "Мастер доступа:"
+
+#: ../functions/widget-twitter.php:48
+msgid "Access Token Secret:"
+msgstr "Секрет мастера доступа:"
+
+#: ../functions/widget-twitter.php:51
+msgid "Consumer Key:"
+msgstr "Ключ пользователя:"
+
+#: ../functions/widget-twitter.php:54
+msgid "Consumer Secret:"
+msgstr "Секрет пользователя"
+
+#: ../functions/widget-twitter.php:83
+msgid "No items"
+msgstr "Нет элементов"
+
+#: ../functions/widget-twitter.php:97
+msgid "View in Fullscreen"
+msgstr "Посмотреть на полном экране"
+
+#: ../functions/widget-twitter.php:100
+msgid "Tweet "
+msgstr "Твит"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:465
+msgid "Delete this image"
+msgstr "Удалить это изображение"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:434
+#: ../lib/taxonomy-meta.php:465
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../lib/taxonomy-meta.php:440
+msgid "Upload new files"
+msgstr "Загрузить новые файлы"
+
+#: ../lib/taxonomy-meta.php:443
+msgid "Add more file"
+msgstr "Добавить больше файлов"
+
+#: ../lib/taxonomy-meta.php:471
+msgid "Upload new image"
+msgstr "Загрузить новое изображение"
+
+#: ../lib/taxonomy-meta.php:479
+msgid "Select a color"
+msgstr "Выбрать цвет"

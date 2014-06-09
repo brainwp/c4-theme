@@ -1,0 +1,1190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fudge\n"
+"POT-Creation-Date: 2013-09-03 18:48+0100\n"
+"PO-Revision-Date: 2014-01-10 17:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:4
+msgid "404 Not Found"
+msgstr "404 Niet Gevonden"
+
+#: ../404.php:5
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"De door u opgevraagde pagina kon helaas niet worden gevonden. Probeer een "
+"zoekopdracht."
+
+#: ../archive.php:32
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Oudere Aanmeldingen"
+
+#: ../archive.php:33
+msgid "Newer Entries &raquo;"
+msgstr "Nieuwere Aanmeldingen &raquo;"
+
+#: ../comments.php:8
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Laad deze pagina niet direct. Bedankt!"
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Deze post is beveiligd met een wachtwoord. Toets uw wachtwoord in om "
+"opmerkingen te bekijken."
+
+#: ../comments.php:27
+msgid "Comments are closed."
+msgstr "Opmerkingen zijn afgesloten."
+
+#: ../comments.php:35
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:42 ../functions.php:888
+msgid "Your comment is awaiting moderation."
+msgstr "Uw opmerking wacht op een aanpassing."
+
+#: ../comments.php:65
+msgid "Logged in as"
+msgstr "Ingelogd als"
+
+#: ../comments.php:65
+msgid "Log out of this account"
+msgstr "Uitloggen voor deze account"
+
+#: ../comments.php:65
+msgid "Log out &raquo;"
+msgstr "Uitloggen &raquo;"
+
+#: ../comments.php:68
+msgid "Name"
+msgstr "Naam"
+
+#: ../comments.php:69
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:70
+msgid "Website"
+msgstr "Website"
+
+#: ../comments.php:74
+msgid "Comment"
+msgstr "Opmerking"
+
+#: ../comments.php:76
+msgid "Leave Comment"
+msgstr "Laat een Opmerking achter"
+
+#: ../functions.php:57
+msgid "Close Window"
+msgstr "Sluit Venster"
+
+#: ../functions.php:58
+msgid "LOCATION:"
+msgstr "LOCATIE:"
+
+#: ../functions.php:59
+msgid "DATE:"
+msgstr "DATUM:"
+
+#: ../functions.php:60
+msgid "TIME:"
+msgstr "TIJD:"
+
+#: ../functions.php:61
+msgid "Company:"
+msgstr "Bedrijf:"
+
+#: ../functions.php:62
+msgid "Short Bio:"
+msgstr "Korte Bio:"
+
+#: ../functions.php:63
+msgid "Website:"
+msgstr "Website:"
+
+#: ../functions.php:64
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../functions.php:65 ../functions.php:237 ../functions.php:247
+msgid "Sessions"
+msgstr "Sessies"
+
+#: ../functions.php:66
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../functions.php:67
+msgid "This field must be filled out."
+msgstr "Dit veld moet worden ingevuld."
+
+#: ../functions.php:68
+msgid "Sorry! You've entered an invalid email."
+msgstr "Sorry! Je hebt een ongeldig email-adres ingevuld."
+
+#: ../functions.php:69
+msgid "<strong>Thanks!</strong> Your email has been delivered."
+msgstr "<strong>Bedankt!</strong> Je email is verzonden."
+
+#: ../functions.php:70
+msgid "<strong>Sorry!</strong> Your email has not been delivered."
+msgstr "<strong>Sorry!</strong> Je email kon niet worden verstuurd."
+
+#: ../functions.php:141 ../functions.php:151
+msgid "Sponsors"
+msgstr "Sponsors"
+
+#: ../functions.php:142
+msgid "Sponsor"
+msgstr "Sponsor"
+
+#: ../functions.php:143 ../functions.php:166 ../functions.php:189
+#: ../functions.php:212 ../functions.php:239
+msgid "Add New"
+msgstr "Nieuwe Toevoegen"
+
+#: ../functions.php:144
+msgid "Add New Sponsor"
+msgstr "Nieuwe Sponsor Toevoegen"
+
+#: ../functions.php:145
+msgid "Edit Sponsor"
+msgstr "Bewerk Sponsor"
+
+#: ../functions.php:146
+msgid "New Sponsor"
+msgstr "Nieuwe Sponsor"
+
+#: ../functions.php:147
+msgid "View Sponsor"
+msgstr "Bekijk Sponsor"
+
+#: ../functions.php:148
+msgid "Search Sponsors"
+msgstr "Zoek Sponsor"
+
+#: ../functions.php:149
+msgid "No Sponsors found"
+msgstr "Geen Sponsors gevonden"
+
+#: ../functions.php:150
+msgid "No Sponsors found in trash"
+msgstr "Geen Sponsors in de prullenbak gevonden"
+
+#: ../functions.php:164 ../functions.php:165 ../functions.php:174
+msgid "Event Media"
+msgstr "Media voor Evenement"
+
+#: ../functions.php:167
+msgid "Add New Event Media"
+msgstr "Voeg Nieuwe Media voor Evenement Toe"
+
+#: ../functions.php:168
+msgid "Edit Event Media"
+msgstr "Bewerk Media voor Evenement"
+
+#: ../functions.php:169
+msgid "New Event Media"
+msgstr "Nieuwe Media voor Evenement"
+
+#: ../functions.php:170
+msgid "View Event Media"
+msgstr "Bekijk Media voor Evenement"
+
+#: ../functions.php:171
+msgid "Search Event Media"
+msgstr "Zoek Media voor Evenement"
+
+#: ../functions.php:172
+msgid "No Event Media found"
+msgstr "Geen Media voor Evenement Gevonden"
+
+#: ../functions.php:173
+msgid "No Event Media found in trash"
+msgstr "Geen Media voor Evenement in de prullenbak gevonden"
+
+#: ../functions.php:187 ../functions.php:197
+msgid "Points of Interest"
+msgstr "Interessegebieden"
+
+#: ../functions.php:188
+msgid "Point of Interest"
+msgstr "Interessegebied"
+
+#: ../functions.php:190
+msgid "Add New Point of Interest"
+msgstr "Voeg een nieuw Interessegebied toe"
+
+#: ../functions.php:191
+msgid "Edit Point of Interest"
+msgstr "Bewerk Interessegebied"
+
+#: ../functions.php:192
+msgid "New Point of Interest"
+msgstr "Nieuw Interessegebied"
+
+#: ../functions.php:193
+msgid "View Point of Interest"
+msgstr "Bekijk Interessegebied"
+
+#: ../functions.php:194
+msgid "Search Points of Interest"
+msgstr "Zoek Interessegebieden"
+
+#: ../functions.php:195
+msgid "No Points of Interest found"
+msgstr "Geen Interessegebieden gevonden"
+
+#: ../functions.php:196
+msgid "No Points of Interest found in trash"
+msgstr "Geen Interessegebieden in de prullenbak gevonden"
+
+#: ../functions.php:210 ../functions.php:220 ../functions.php:377
+msgid "Speakers"
+msgstr "Sprekers"
+
+#: ../functions.php:211
+msgid "Speaker"
+msgstr "Spreker"
+
+#: ../functions.php:213
+msgid "Add New Speaker"
+msgstr "Voeg Nieuwe Spreker toe"
+
+#: ../functions.php:214
+msgid "Edit Speaker"
+msgstr "Bewerk Spreker"
+
+#: ../functions.php:215
+msgid "New Speaker"
+msgstr "Nieuwe Spreker"
+
+#: ../functions.php:216
+msgid "View Speaker"
+msgstr "Bekijk Spreker"
+
+#: ../functions.php:217
+msgid "Search Speakers"
+msgstr "Zoek Sprekers"
+
+#: ../functions.php:218
+msgid "No Speakers found"
+msgstr "Geen Sprekers gevonden"
+
+#: ../functions.php:219
+msgid "No Speakers found in trash"
+msgstr "Geen Sprekers in de prullenbak gevonden"
+
+#: ../functions.php:238
+msgid "Session"
+msgstr "Sessie"
+
+#: ../functions.php:240
+msgid "Add New Session"
+msgstr "Voeg Nieuwe Sessie toe"
+
+#: ../functions.php:241
+msgid "Edit Session"
+msgstr "Bewerk Sessie"
+
+#: ../functions.php:242
+msgid "New Session"
+msgstr "Nieuwer Sessie"
+
+#: ../functions.php:243
+msgid "View Session"
+msgstr "Bekijk Sessie"
+
+#: ../functions.php:244
+msgid "Search Sessions"
+msgstr "Zoek Sessies"
+
+#: ../functions.php:245
+msgid "No Sessions found"
+msgstr "Geen Sessies gevonden"
+
+#: ../functions.php:246
+msgid "No Sessions found in trash"
+msgstr "Geen Sessies in prullenbak gevonden"
+
+#: ../functions.php:268 ../functions.php:278
+msgid "Tiers"
+msgstr "Rangen"
+
+#: ../functions.php:269
+msgid "Tier"
+msgstr "Rang"
+
+#: ../functions.php:270
+msgid "Search Tiers"
+msgstr "Zoek Rangen"
+
+#: ../functions.php:271
+msgid "All Tiers"
+msgstr "Alle Rangen"
+
+#: ../functions.php:272
+msgid "Parent Tier"
+msgstr "Onderliggende Rang"
+
+#: ../functions.php:273
+msgid "Parent Tier:"
+msgstr "Onderliggende Rang"
+
+#: ../functions.php:274
+msgid "Edit Tier"
+msgstr "Bewerk Rang"
+
+#: ../functions.php:275
+msgid "Update Tier"
+msgstr "Update Rang"
+
+#: ../functions.php:276
+msgid "Add New Tier"
+msgstr "Voeg Nieuwe Rang toe"
+
+#: ../functions.php:277
+msgid "New Tier"
+msgstr "Nieuwe Rang"
+
+#: ../functions.php:286 ../functions.php:296
+msgid "Media Types"
+msgstr "Media Types"
+
+#: ../functions.php:287
+msgid "Media Type"
+msgstr "Media Type"
+
+#: ../functions.php:288
+msgid "Search Media Types"
+msgstr "Zoek Media Types"
+
+#: ../functions.php:289
+msgid "All Media Types"
+msgstr "Alle Media Types"
+
+#: ../functions.php:290
+msgid "Parent Media Type"
+msgstr "Onderliggend Media Type"
+
+#: ../functions.php:291
+msgid "Parent Media Type:"
+msgstr "Onderliggend Media Type"
+
+#: ../functions.php:292
+msgid "Edit Media Type"
+msgstr "Bewerk Media Type"
+
+#: ../functions.php:293
+msgid "Update Media Type"
+msgstr "Update Media Type"
+
+#: ../functions.php:294
+msgid "Add New Media Type"
+msgstr "Voeg Nieuwe Media Type toe"
+
+#: ../functions.php:295
+msgid "New Media Type"
+msgstr "Niewe Media Type"
+
+#: ../functions.php:304
+msgid "Session Tracks"
+msgstr "Sessie Sporen"
+
+#: ../functions.php:305
+msgid "Session Track"
+msgstr "Sessie Spoor"
+
+#: ../functions.php:306
+msgid "Search Session Tracks"
+msgstr "Zoek Sessie Sporen"
+
+#: ../functions.php:307
+msgid "All Session Tracks"
+msgstr "Alle Sessie Sporen"
+
+#: ../functions.php:308
+msgid "Parent Session Track"
+msgstr "Onderliggend Sessie Spoor"
+
+#: ../functions.php:309
+msgid "Parent Session Track:"
+msgstr "Onderliggend Sessie Spoor"
+
+#: ../functions.php:310
+msgid "Edit Session Track"
+msgstr "Bewerk Sessie Spoor"
+
+#: ../functions.php:311
+msgid "Update Session Spoor"
+msgstr "Update Sessie Tracks"
+
+#: ../functions.php:312
+msgid "Add New Session Track"
+msgstr "Voeg Nieuwe Sessie Spoor toe"
+
+#: ../functions.php:313
+msgid "New Session Track"
+msgstr "Nieuw Sessie Spoor"
+
+#: ../functions.php:314
+msgid "Tracks"
+msgstr "Sporen"
+
+#: ../functions.php:322
+msgid "Session Locations"
+msgstr "Sessie Locaties"
+
+#: ../functions.php:323
+msgid "Session Location"
+msgstr "Sessie Locatie"
+
+#: ../functions.php:324
+msgid "Search Session Locations"
+msgstr "Zoek Sessie Locaties"
+
+#: ../functions.php:325
+msgid "All Session Locations"
+msgstr "Alle Sessie Locaties"
+
+#: ../functions.php:326
+msgid "Parent Session Location"
+msgstr "Onderliggende Sessie Locatie"
+
+#: ../functions.php:327
+msgid "Parent Session Location:"
+msgstr "Onderliggende Sessie Locatie:"
+
+#: ../functions.php:328
+msgid "Edit Session Location"
+msgstr "Bewerk Sessie Locatie"
+
+#: ../functions.php:329
+msgid "Update Session Location"
+msgstr "Update Sessie Locatie"
+
+#: ../functions.php:330
+msgid "Add New Session Location"
+msgstr "Voeg Nieuwe Sessie Locatie toe"
+
+#: ../functions.php:331
+msgid "New Session Location"
+msgstr "Nieuwe Sessie Locatie"
+
+#: ../functions.php:332
+msgid "Locations"
+msgstr "Locaties"
+
+#: ../functions.php:343 ../functions.php:356
+msgid "Color"
+msgstr "Kleur"
+
+#: ../functions.php:372
+msgid "Media Content"
+msgstr "Media Inhoud"
+
+#: ../functions.php:373
+msgid "Additional Content"
+msgstr "Toegevoegde Inhoud"
+
+#: ../functions.php:374
+msgid "POI Address Info"
+msgstr "POI Adres Info"
+
+#: ../functions.php:375
+msgid "Speaker Details"
+msgstr "Spreker Details"
+
+#: ../functions.php:376
+msgid "Session Details"
+msgstr "Sessie Details"
+
+#: ../functions.php:378
+msgid "Sponsor Details"
+msgstr "Sponsor Details"
+
+#: ../functions.php:382
+msgid "Event Over Content"
+msgstr "Evenement Boven Inhoud"
+
+#: ../functions.php:390
+msgid "Video URL"
+msgstr "Video Url"
+
+#: ../functions.php:400 ../functions.php:415
+msgid "Top Tagline"
+msgstr "Bovenste Slagzin"
+
+#: ../functions.php:411
+msgid "Heading"
+msgstr "Hoofd"
+
+#: ../functions.php:425
+msgid "Link"
+msgstr "Link"
+
+#: ../functions.php:439
+msgid "Street Address 1"
+msgstr "Straatnaam 1"
+
+#: ../functions.php:443
+msgid "Street Address 2"
+msgstr "Straatnaam 2"
+
+#: ../functions.php:447
+msgid "City"
+msgstr "Plaats"
+
+#: ../functions.php:451
+msgid "Postal Code / Zip Code"
+msgstr "Postcode"
+
+#: ../functions.php:455
+msgid "Country"
+msgstr "Land"
+
+#: ../functions.php:468
+msgid "Company"
+msgstr "Bedrijf"
+
+#: ../functions.php:472
+msgid "Short Bio"
+msgstr "Korte Bio"
+
+#: ../functions.php:481 ../functions.php:804
+msgid "Twitter Username"
+msgstr "Twitter Gebruikersnaam"
+
+#: ../functions.php:504
+msgid "Date"
+msgstr "Datum"
+
+#: ../functions.php:509
+msgid "Start Time"
+msgstr "Begintijd"
+
+#: ../functions.php:511 ../functions.php:516
+msgid "Format hh:mm"
+msgstr "Format hh:mm"
+
+#: ../functions.php:514
+msgid "End Time"
+msgstr "Eindtijd"
+
+#: ../functions.php:615
+msgid "General Site Options"
+msgstr "Algemene Opties Website"
+
+#: ../functions.php:628
+msgid "Color Palette"
+msgstr "Kleurenpalette"
+
+#: ../functions.php:655
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:669
+msgid "Footer Content"
+msgstr "Inhoud Footer"
+
+#: ../functions.php:678
+msgid "Homepage Options"
+msgstr "Homepage Opties"
+
+#: ../functions.php:691
+msgid "Hero Background"
+msgstr "Held Achtergrond"
+
+#: ../functions.php:705
+msgid "Event Title"
+msgstr "Titel Evenement"
+
+#: ../functions.php:719
+msgid "Event Tagline"
+msgstr "Slagzin Evenement"
+
+#: ../functions.php:727
+msgid "Event Over Settings"
+msgstr "Instellingen Afgelopen Evenement"
+
+#: ../functions.php:740
+msgid "Main Title"
+msgstr "Hoofdtitel"
+
+#: ../functions.php:754
+msgid "Main tagline"
+msgstr "Hoofd Slagzin"
+
+#: ../functions.php:768
+msgid "Switch to Event Over Content?"
+msgstr "Ga naar Inhoud afgelopen Evenement"
+
+#: ../functions.php:777
+msgid "Social Media &amp; Connecting"
+msgstr "Social Media &amp; Verbinden"
+
+#: ../functions.php:790
+msgid "Email Address"
+msgstr "Email-Adres"
+
+#: ../functions.php:818
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: ../functions.php:832
+msgid "Flickr Username"
+msgstr "Flickr Gebruikersnaam"
+
+#: ../functions.php:846
+msgid "Full LinkedIn URL"
+msgstr "Volledige LinkedIn URL"
+
+#: ../functions.php:860
+msgid "Pinterest Username"
+msgstr "Pinterest Gebruikersnaam"
+
+#: ../functions.php:893
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions.php:894
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: ../functions.php:894
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#: ../functions.php:1352
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again.!"
+msgstr ""
+"De tekens zijn niet correct ingevoerd. Ga terug en Probeer het nog eens!"
+
+#: ../functions.php:1358
+msgid "Forgot your name!"
+msgstr "Je bent je naam vergeten!"
+
+#: ../functions.php:1365
+msgid "Forgot to enter in your e-mail address."
+msgstr "Je bent vergeten je email-adres in te vullen."
+
+#: ../functions.php:1368
+msgid "You entered an invalid email address."
+msgstr "Je email-adres is niet geldig."
+
+#: ../functions.php:1376
+msgid "You forgot to enter a message!"
+msgstr "Je bent het bericht vergeten!"
+
+#: ../functions.php:1387
+msgid "Submitted message from "
+msgstr "Bericht verstuurd van "
+
+#: ../functions.php:1388
+msgid "Name:"
+msgstr "Naam:"
+
+#: ../functions.php:1388
+msgid "Email:"
+msgstr "Email:"
+
+#: ../functions.php:1388
+msgid "Phone:"
+msgstr "Tel:"
+
+#: ../functions.php:1388
+msgid "Comments:"
+msgstr "Opmerkingen:"
+
+#: ../functions.php:1394
+msgid "Your email was sent."
+msgstr "Je email is verstuurd."
+
+#: ../functions.php:1396
+msgid "Error submitting the form"
+msgstr "Er is een fout opgetreden bij het versturen van het formulier"
+
+#: ../functions.php:1418
+msgid "Fudge Dummy Data"
+msgstr "Voeg Dummy Data Samen"
+
+#: ../functions.php:1421
+msgid "Check to generate dummy data"
+msgstr "Controleer op het genereren van dummy data"
+
+#: ../functions.php:1423
+msgid "Generate"
+msgstr "Generereer"
+
+#: ../functions.php:1437
+msgid "Order"
+msgstr "Bestelling"
+
+#: ../functions.php:1460 ../functions.php:1463 ../functions.php:1466
+#: ../functions.php:1469 ../functions.php:1472
+msgid " ago"
+msgstr " geleden"
+
+#: ../functions.php:1473
+msgid "on "
+msgstr "op "
+
+#: ../header.php:27
+msgid "Event Over"
+msgstr "Evenement Afgelopen"
+
+#: ../header.php:35
+msgid "Register Now"
+msgstr "Nu Inschrijven"
+
+#: ../page-twitter-full-screen.php:25
+msgid "Back"
+msgstr "Terug"
+
+#: ../search.php:3
+msgid "Search Results"
+msgstr "Zoek Resultaten"
+
+#: ../search.php:9
+msgid "No posts found. Try a different search?"
+msgstr "Geen posts gevonden. Een andere zoekactie proberen?"
+
+#: ../searchform.php:3
+msgid "search"
+msgstr "zoeken"
+
+#: ../single.php:12
+msgid "Posted"
+msgstr "Geplaatst"
+
+#: ../single.php:24
+msgid "Back to list"
+msgstr "Terug naar lijst"
+
+#: ../single.php:24
+msgid "&laquo; Back To List"
+msgstr "&laquo; Tereg naar Lijst"
+
+#: ../espresso/templates/registration_page.php:295
+msgid ""
+"We are sorry but this event has reached the maximum number of attendees!"
+msgstr ""
+"Het spijt ons, maar dit evenement heeft het maximum aantal deelnemers "
+"bereikt?"
+
+#: ../espresso/templates/registration_page.php:296
+msgid "Please check back in the event someone cancels."
+msgstr "Blijf af en toe terugkomen voor het geval iemand zich afmeldt."
+
+#: ../espresso/templates/registration_page.php:297
+msgid "Current Number of Attendees:"
+msgstr "Huidig Aantal Deelnemers:"
+
+#: ../espresso/templates/registration_page.php:303
+msgid "Join Waiting List"
+msgstr "Neem plaats op de Wachtlijst"
+
+#: ../espresso/templates/registration_page.php:370
+msgid "This event has expired or is no longer available."
+msgstr "Dit evenement is afgelopen of niet langer beschikbaar."
+
+#: ../espresso/templates/registration_page_display.php:21
+msgid "This event has passed.</h3>"
+msgstr "Dit evenement is voorbij.</h3>"
+
+#: ../espresso/templates/registration_page_display.php:31
+msgid "We are sorry but registration for this event is now closed."
+msgstr "Het spijt ons, maar de inschrijving voor dit evenement is nu gesloten."
+
+#: ../espresso/templates/registration_page_display.php:36
+msgid ""
+"Please <a href=\"contact\" title=\"contact us\">contact us</a> if you would "
+"like to know if spaces are still available."
+msgstr ""
+"Neem s.v.p. <a href=\"contact\" title=\"contact us\">contact </a> met ons op "
+"indien u wilt weten of er nog genoeg plaatsen beschikbaar zijn."
+
+#: ../espresso/templates/registration_page_display.php:51
+msgid "We are sorry but this event is not yet open for registration."
+msgstr ""
+"Het spijt ons maar voor dit evenement kunt u zich nog niet inschrijven."
+
+#: ../espresso/templates/registration_page_display.php:57
+msgid "You will be able to register starting "
+msgstr "U kunt zich inschrijven vanaf "
+
+#: ../espresso/templates/registration_page_display.php:101
+#: ../espresso/templates/registration_page_display.php:109
+msgid "Submit Registration"
+msgstr "Verstuur Inschrijving"
+
+#: ../functions/widget-connect.php:9
+msgid ""
+"Shows a section displaying icons for the social media links filled out in "
+"the Customizer"
+msgstr ""
+"Laat een gedeelte zien met icoontjes voor de social media links die zijn "
+"geselecteerd in de Customizer"
+
+#: ../functions/widget-connect.php:29 ../functions/widget-contact.php:37
+#: ../functions/widget-event-description.php:31
+#: ../functions/widget-media.php:35 ../functions/widget-news.php:33
+#: ../functions/widget-registration.php:35 ../functions/widget-schedule.php:37
+#: ../functions/widget-speakers.php:35 ../functions/widget-sponsors.php:32
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../functions/widget-connect.php:32 ../functions/widget-contact.php:52
+#: ../functions/widget-event-description.php:37
+#: ../functions/widget-event-info.php:47 ../functions/widget-explore.php:42
+#: ../functions/widget-facebook-rsvp.php:38 ../functions/widget-media.php:47
+#: ../functions/widget-news.php:42 ../functions/widget-registration.php:47
+#: ../functions/widget-schedule.php:52 ../functions/widget-speakers.php:47
+#: ../functions/widget-sponsors.php:38 ../functions/widget-timer.php:47
+#: ../functions/widget-twitter.php:41
+msgid "Add to main navigation?"
+msgstr "Toevoegen aan hoofdnavigatie?"
+
+#: ../functions/widget-connect.php:34 ../functions/widget-contact.php:54
+#: ../functions/widget-event-info.php:49 ../functions/widget-explore.php:44
+#: ../functions/widget-facebook-rsvp.php:40 ../functions/widget-media.php:49
+#: ../functions/widget-news.php:44 ../functions/widget-schedule.php:54
+#: ../functions/widget-speakers.php:49 ../functions/widget-sponsors.php:40
+#: ../functions/widget-timer.php:49 ../functions/widget-twitter.php:43
+msgid "(Enter desired menu link text)"
+msgstr "(Vul gewenste tekst voor menu-link in)"
+
+#: ../functions/widget-contact.php:9 ../functions/widget-news.php:9
+msgid "Shows a section displaying the latest four posts"
+msgstr "Toont een gedeelte waar de laatste vier posts te zien zijn"
+
+#: ../functions/widget-contact.php:40 ../functions/widget-media.php:38
+#: ../functions/widget-news.php:36 ../functions/widget-registration.php:38
+#: ../functions/widget-schedule.php:40 ../functions/widget-speakers.php:38
+#: ../functions/widget-sponsors.php:35
+msgid "Tagline:"
+msgstr "Slagzin"
+
+#: ../functions/widget-contact.php:43
+msgid "Email Address To Send Forms To:"
+msgstr "Email-adres Om De Formulieren Naar Te Versturen"
+
+#: ../functions/widget-contact.php:46
+msgid "Recaptcha Public Key:"
+msgstr "Recaptcha Public Key:"
+
+#: ../functions/widget-contact.php:49
+msgid "Recaptcha Private Key:"
+msgstr "Recaptcha Private Key"
+
+#: ../functions/widget-event-description.php:9
+msgid "Shows the event description"
+msgstr "Toont de Evenement beschrijving"
+
+#: ../functions/widget-event-description.php:34
+msgid "Content:"
+msgstr "Inhoud:"
+
+#: ../functions/widget-event-info.php:9
+msgid "Shows a section displaying event time, date and location"
+msgstr ""
+"Toont een gedeelte welke de tijd, datum en locatie van het evenement "
+"weergeeft"
+
+#: ../functions/widget-event-info.php:35
+msgid "Event Date:"
+msgstr "Evenement Datum"
+
+#: ../functions/widget-event-info.php:38
+msgid "Event Starting Time:"
+msgstr "Evenement Starttijd"
+
+#: ../functions/widget-event-info.php:41
+msgid "Event City &amp; Country:"
+msgstr "Evenement Plaats &amp; Land"
+
+#: ../functions/widget-event-info.php:44
+msgid "Event Location:"
+msgstr "Evenement Locatie"
+
+#: ../functions/widget-event-info.php:70
+msgid "When"
+msgstr "Wanneer"
+
+#: ../functions/widget-event-info.php:72
+msgid "Starting at"
+msgstr "Begint om"
+
+#: ../functions/widget-event-info.php:75
+msgid "Where"
+msgstr "Waar"
+
+#: ../functions/widget-explore.php:9
+msgid "Shows a section displaying points of interest & maps"
+msgstr "Toont een gedeelte die interessegebieden  & kaarten weergeeft"
+
+#: ../functions/widget-explore.php:33
+msgid "Main Title:"
+msgstr "Hoofdtitel"
+
+#: ../functions/widget-explore.php:36
+msgid "Secondary Title"
+msgstr "Tweede Titel"
+
+#: ../functions/widget-explore.php:39
+msgid "Tagline"
+msgstr "Slagzin"
+
+#: ../functions/widget-facebook-rsvp.php:35
+msgid "Link to Event on Facebook:"
+msgstr "Link naar Evenement op Facebook"
+
+#: ../functions/widget-facebook-rsvp.php:42
+msgid "Event ID:"
+msgstr "Evenement ID:"
+
+#: ../functions/widget-facebook-rsvp.php:45
+msgid "App ID:"
+msgstr "App ID:"
+
+#: ../functions/widget-facebook-rsvp.php:48
+msgid "Secret Key:"
+msgstr "Geheime Sleutel"
+
+#: ../functions/widget-facebook-rsvp.php:76
+msgid "Yes"
+msgstr "Ja"
+
+#: ../functions/widget-facebook-rsvp.php:77
+msgid "Maybe"
+msgstr "Misschien"
+
+#: ../functions/widget-facebook-rsvp.php:78
+msgid "No"
+msgstr "Nee"
+
+#: ../functions/widget-facebook-rsvp.php:79
+msgid "View on Facebook"
+msgstr "Bekijk op Facebook"
+
+#: ../functions/widget-media.php:9
+msgid ""
+"Shows a section displaying media by category in the media custom post type"
+msgstr ""
+"Toont een gedeelte dat media per categorie weergeeft in het media custom "
+"post type"
+
+#: ../functions/widget-media.php:41 ../functions/widget-schedule.php:46
+#: ../functions/widget-speakers.php:41
+msgid "\"View More\" Button Text:"
+msgstr "\"Bekijk Meer\" Button Tekst:"
+
+#: ../functions/widget-media.php:44 ../functions/widget-schedule.php:49
+#: ../functions/widget-speakers.php:44
+msgid "\"View Less\" Button Text:"
+msgstr "\"Bekijk Minder\" Button Tekst:"
+
+#: ../functions/widget-media.php:71 ../functions/widget-media.php:89
+msgid "All Media"
+msgstr "Alle Media"
+
+#: ../functions/widget-media.php:71 ../functions/widget-media.php:89
+msgid "All"
+msgstr "Alle"
+
+#: ../functions/widget-media.php:87
+msgid "Filter Results"
+msgstr "Filter Resultaten"
+
+#: ../functions/widget-media.php:107 ../functions/widget-schedule.php:142
+#: ../functions/widget-speakers.php:73
+msgid "View Less"
+msgstr "Bekijk Minder"
+
+#: ../functions/widget-media.php:108 ../functions/widget-schedule.php:143
+#: ../functions/widget-speakers.php:74
+msgid "View More"
+msgstr "Bekijk Meer"
+
+#: ../functions/widget-news.php:39
+msgid "Link:"
+msgstr "Link:"
+
+#: ../functions/widget-news.php:80
+msgid "View all News"
+msgstr "Bekijk al het Nieuws"
+
+#: ../functions/widget-quotes.php:9 ../functions/widget-twitter.php:9
+msgid "Shows a section displaying latest tweets"
+msgstr "Toont een gedeelte dat de laatste tweets weergeeft"
+
+#: ../functions/widget-quotes.php:33 ../functions/widget-quotes.php:41
+msgid "Quote"
+msgstr "Citaat"
+
+#: ../functions/widget-quotes.php:34 ../functions/widget-quotes.php:42
+msgid "Text"
+msgstr "Tekst"
+
+#: ../functions/widget-quotes.php:37 ../functions/widget-quotes.php:45
+msgid "Time"
+msgstr "Tijd"
+
+#: ../functions/widget-registration.php:9
+msgid "Shows registration information & ticket display"
+msgstr "Toont venster met info over de inschrijving & ticket"
+
+#: ../functions/widget-registration.php:41 ../functions/widget-schedule.php:43
+msgid "Main Text:"
+msgstr "Hoofdtekst"
+
+#: ../functions/widget-registration.php:44
+msgid "Registration Embed Code:"
+msgstr "Inschrijving Embed Code"
+
+#: ../functions/widget-schedule.php:9
+msgid "Displays Event Schedule widget"
+msgstr "Toont Widget voor de Evenement Agenda"
+
+#: ../functions/widget-schedule.php:95 ../functions/widget-schedule.php:111
+msgid "Filter by Track"
+msgstr "Filter op SPoor"
+
+#: ../functions/widget-schedule.php:111
+msgid "Filter By Track"
+msgstr "Filter op Spoor"
+
+#: ../functions/widget-schedule.php:113 ../functions/widget-schedule.php:128
+msgid "Reset"
+msgstr "Herstel"
+
+#: ../functions/widget-schedule.php:126
+msgid "Filter by Location"
+msgstr "Filter op Locatie"
+
+#: ../functions/widget-schedule.php:126
+msgid "Filter By Location"
+msgstr "Filter op Locatie"
+
+#: ../functions/widget-speakers.php:9
+msgid ""
+"Shows a section displaying speakers created in the Speakers custom post type"
+msgstr ""
+"Toont een gedeelte dat de sprekers, aangemaakt in de Speakers custom post "
+"type, weergeeft"
+
+#: ../functions/widget-sponsors.php:9
+msgid ""
+"Shows a section displaying sponsors by tier type created in the Sponsors "
+"custom post type"
+msgstr ""
+"Toont een gedeelte dat sponsors weergeeft van een bepaalde orde van grootte, "
+"aangemaakt in de Sponsors custom post type"
+
+#: ../functions/widget-sponsors.php:96
+msgid "Sponsor this event"
+msgstr "Sponsor dit evenement"
+
+#: ../functions/widget-sponsors.php:96
+msgid "Sponsor The Event"
+msgstr "Sponsor Het Evenement"
+
+#: ../functions/widget-timer.php:9
+msgid "Shows a section displaying the event countdown clock"
+msgstr "Toont een gedeelte dat de countdown klok weergeeft"
+
+#: ../functions/widget-timer.php:51
+msgid "Countdown Date:"
+msgstr "Countdown Datum"
+
+#: ../functions/widget-timer.php:76
+msgid "Days"
+msgstr "Dagen"
+
+#: ../functions/widget-timer.php:81
+msgid "Hours"
+msgstr "Uren"
+
+#: ../functions/widget-timer.php:86
+msgid "Minutes"
+msgstr "Minuten"
+
+#: ../functions/widget-timer.php:91
+msgid "Seconds"
+msgstr "Seconden"
+
+#: ../functions/widget-twitter.php:37
+msgid "Event Hashtag Keyword:"
+msgstr "Hashtag Sleutelwoord van het Evenement"
+
+#: ../functions/widget-twitter.php:39
+msgid "(Leave out the #)"
+msgstr "(Laat de # weg)"
+
+#: ../functions/widget-twitter.php:45
+msgid "Access Token:"
+msgstr "Toegangsbewijs:"
+
+#: ../functions/widget-twitter.php:48
+msgid "Access Token Secret:"
+msgstr "Toegangsbewijs Geheim"
+
+#: ../functions/widget-twitter.php:51
+msgid "Consumer Key:"
+msgstr "Klant Sleutel:"
+
+#: ../functions/widget-twitter.php:54
+msgid "Consumer Secret:"
+msgstr "Klant Geheim:"
+
+#: ../functions/widget-twitter.php:83
+msgid "No items"
+msgstr "Geen items"
+
+#: ../functions/widget-twitter.php:97
+msgid "View in Fullscreen"
+msgstr "Bekijk in Volledig Scherm"
+
+#: ../functions/widget-twitter.php:100
+msgid "Tweet "
+msgstr "Tweet "
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:465
+msgid "Delete this image"
+msgstr "Verwijder deze afbeelding"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:434
+#: ../lib/taxonomy-meta.php:465
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../lib/taxonomy-meta.php:440
+msgid "Upload new files"
+msgstr "Upload nieuwe bestanden"
+
+#: ../lib/taxonomy-meta.php:443
+msgid "Add more file"
+msgstr "Voeg meer bestanden toe"
+
+#: ../lib/taxonomy-meta.php:471
+msgid "Upload new image"
+msgstr "Upload een afbeelding"
+
+#: ../lib/taxonomy-meta.php:479
+msgid "Select a color"
+msgstr "Selecteer een kleur"

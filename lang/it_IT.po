@@ -1,0 +1,1188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fudge\n"
+"POT-Creation-Date: 2013-09-03 18:48+0100\n"
+"PO-Revision-Date: 2014-01-10 17:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:4
+msgid "404 Not Found"
+msgstr "404 non trovato"
+
+#: ../404.php:5
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Spiacenti, ma la pagina richiesta non è stata trovata. Forse la ricerca sarà "
+"d'aiuto."
+
+#: ../archive.php:32
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Voci meno recenti"
+
+#: ../archive.php:33
+msgid "Newer Entries &raquo;"
+msgstr "Voci più recenti &raquo;"
+
+#: ../comments.php:8
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Ti preghiamo di non caricare direttamente questa pagina. Grazie!"
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Questo post è protetto da password. Inserisci la password per visualizzare i "
+"commenti."
+
+#: ../comments.php:27
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: ../comments.php:35
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackback/pingback"
+
+#: ../comments.php:42 ../functions.php:888
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di essere moderato."
+
+#: ../comments.php:65
+msgid "Logged in as"
+msgstr "Accesso effettuato come"
+
+#: ../comments.php:65
+msgid "Log out of this account"
+msgstr "Esci da questo account"
+
+#: ../comments.php:65
+msgid "Log out &raquo;"
+msgstr "Esci &raquo;"
+
+#: ../comments.php:68
+msgid "Name"
+msgstr "Nome"
+
+#: ../comments.php:69
+msgid "Email"
+msgstr "E-mail"
+
+#: ../comments.php:70
+msgid "Website"
+msgstr "Sito web"
+
+#: ../comments.php:74
+msgid "Comment"
+msgstr "Commento"
+
+#: ../comments.php:76
+msgid "Leave Comment"
+msgstr "Lascia un commento"
+
+#: ../functions.php:57
+msgid "Close Window"
+msgstr "Chiudi la finestra"
+
+#: ../functions.php:58
+msgid "LOCATION:"
+msgstr "LUOGO:"
+
+#: ../functions.php:59
+msgid "DATE:"
+msgstr "DATA:"
+
+#: ../functions.php:60
+msgid "TIME:"
+msgstr "ORA:"
+
+#: ../functions.php:61
+msgid "Company:"
+msgstr "Società:"
+
+#: ../functions.php:62
+msgid "Short Bio:"
+msgstr "Breve biografia:"
+
+#: ../functions.php:63
+msgid "Website:"
+msgstr "Sito web:"
+
+#: ../functions.php:64
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../functions.php:65 ../functions.php:237 ../functions.php:247
+msgid "Sessions"
+msgstr "Sessioni"
+
+#: ../functions.php:66
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../functions.php:67
+msgid "This field must be filled out."
+msgstr "Questo campo dev'essere riempito."
+
+#: ../functions.php:68
+msgid "Sorry! You've entered an invalid email."
+msgstr "Spiacenti! Hai inserito un'e-mail non valida."
+
+#: ../functions.php:69
+msgid "<strong>Thanks!</strong> Your email has been delivered."
+msgstr "<strong>Grazie!</strong> La tua e-mail è stata consegnata."
+
+#: ../functions.php:70
+msgid "<strong>Sorry!</strong> Your email has not been delivered."
+msgstr "<strong>Spiacenti!</strong> La tua e-mail non è stata consegnata."
+
+#: ../functions.php:141 ../functions.php:151
+msgid "Sponsors"
+msgstr "Sponsor"
+
+#: ../functions.php:142
+msgid "Sponsor"
+msgstr "Sponsor"
+
+#: ../functions.php:143 ../functions.php:166 ../functions.php:189
+#: ../functions.php:212 ../functions.php:239
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: ../functions.php:144
+msgid "Add New Sponsor"
+msgstr "Aggiungi nuovo sponsor"
+
+#: ../functions.php:145
+msgid "Edit Sponsor"
+msgstr "Modifica sponsor"
+
+#: ../functions.php:146
+msgid "New Sponsor"
+msgstr "Nuovo sponsor"
+
+#: ../functions.php:147
+msgid "View Sponsor"
+msgstr "Visualizza sponsor"
+
+#: ../functions.php:148
+msgid "Search Sponsors"
+msgstr "Cerca sponsor"
+
+#: ../functions.php:149
+msgid "No Sponsors found"
+msgstr "Nessuno sponsor trovato"
+
+#: ../functions.php:150 ../functions.php:164 ../functions.php:165
+#: ../functions.php:174
+msgid "Event Media"
+msgstr "Media evento"
+
+#: ../functions.php:167
+msgid "Add New Event Media"
+msgstr "Aggiungi nuovo media evento"
+
+#: ../functions.php:168
+msgid "Edit Event Media"
+msgstr "Modifica media evento"
+
+#: ../functions.php:169
+msgid "New Event Media"
+msgstr "Nuovo media evento"
+
+#: ../functions.php:170
+msgid "View Event Media"
+msgstr "Visualizza media evento"
+
+#: ../functions.php:171
+msgid "Search Event Media"
+msgstr "Cerca media evento"
+
+#: ../functions.php:172
+msgid "No Event Media found"
+msgstr "Nessun media evento trovato"
+
+#: ../functions.php:173
+msgid "No Event Media found in trash"
+msgstr "Nessun media evento trovato nel cestino"
+
+#: ../functions.php:187 ../functions.php:197
+msgid "Points of Interest"
+msgstr "Punti d'interesse"
+
+#: ../functions.php:188
+msgid "Point of Interest"
+msgstr "Punto d'interesse"
+
+#: ../functions.php:190
+msgid "Add New Point of Interest"
+msgstr "Aggiungi nuovo punto d'interesse"
+
+#: ../functions.php:191
+msgid "Edit Point of Interest"
+msgstr "Modifica punto d'interesse"
+
+#: ../functions.php:192
+msgid "New Point of Interest"
+msgstr "Nuovo punto d'interesse"
+
+#: ../functions.php:193
+msgid "View Point of Interest"
+msgstr "Visualizza punto d'interesse"
+
+#: ../functions.php:194
+msgid "Search Points of Interest"
+msgstr "Cerca punti d'interesse"
+
+#: ../functions.php:195
+msgid "No Points of Interest found"
+msgstr "Nessun punto d'interesse trovato"
+
+#: ../functions.php:196
+msgid "No Points of Interest found in trash"
+msgstr "Nessun punto d'interesse trovato nel cestino"
+
+#: ../functions.php:210 ../functions.php:220 ../functions.php:377
+msgid "Speakers"
+msgstr "Relatori"
+
+#: ../functions.php:211
+msgid "Speaker"
+msgstr "Relatore"
+
+#: ../functions.php:213
+msgid "Add New Speaker"
+msgstr "Aggiungi nuovo relatore"
+
+#: ../functions.php:214
+msgid "Edit Speaker"
+msgstr "Modifica relatore"
+
+#: ../functions.php:215
+msgid "New Speaker"
+msgstr "Nuovo relatore"
+
+#: ../functions.php:216
+msgid "View Speaker"
+msgstr "Visualizza relatore"
+
+#: ../functions.php:217
+msgid "Search Speakers"
+msgstr "Cerca relatori"
+
+#: ../functions.php:218
+msgid "No Speakers found"
+msgstr "Nessun relatore trovato"
+
+#: ../functions.php:219
+msgid "No Speakers found in trash"
+msgstr "Nessun relatore trovato nel cestino"
+
+#: ../functions.php:238
+msgid "Session"
+msgstr "Sessione"
+
+#: ../functions.php:240
+msgid "Add New Session"
+msgstr "Aggiungi nuova sessione"
+
+#: ../functions.php:241
+msgid "Edit Session"
+msgstr "Modifica sessione"
+
+#: ../functions.php:242
+msgid "New Session"
+msgstr "Nuova sessione"
+
+#: ../functions.php:243
+msgid "View Session"
+msgstr "Visualizza sessione"
+
+#: ../functions.php:244
+msgid "Search Sessions"
+msgstr "Cerca sessioni"
+
+#: ../functions.php:245
+msgid "No Sessions found"
+msgstr "Nessuna sessione trovata"
+
+#: ../functions.php:246
+msgid "No Sessions found in trash"
+msgstr "Nessuna sessione trovata nel cestino"
+
+#: ../functions.php:268 ../functions.php:278
+msgid "Tiers"
+msgstr "Livelli"
+
+#: ../functions.php:269
+msgid "Tier"
+msgstr "Livello"
+
+#: ../functions.php:270
+msgid "Search Tiers"
+msgstr "Cerca livelli"
+
+#: ../functions.php:271
+msgid "All Tiers"
+msgstr "Tutti i livelli"
+
+#: ../functions.php:272
+msgid "Parent Tier"
+msgstr "Livello principale"
+
+#: ../functions.php:273
+msgid "Parent Tier:"
+msgstr "Livello principale:"
+
+#: ../functions.php:274
+msgid "Edit Tier"
+msgstr "Modifica livello"
+
+#: ../functions.php:275
+msgid "Update Tier"
+msgstr "Aggiorna livello"
+
+#: ../functions.php:276
+msgid "Add New Tier"
+msgstr "Aggiungi nuovo livello"
+
+#: ../functions.php:277
+msgid "New Tier"
+msgstr "Nuovo livello"
+
+#: ../functions.php:286 ../functions.php:296
+msgid "Media Types"
+msgstr "Tipi multimediali"
+
+#: ../functions.php:287
+msgid "Media Type"
+msgstr "Tipo multimediale"
+
+#: ../functions.php:288
+msgid "Search Media Types"
+msgstr "Cerca tipi multimediali"
+
+#: ../functions.php:289
+msgid "All Media Types"
+msgstr "Tutti i tipi multimediali"
+
+#: ../functions.php:290
+msgid "Parent Media Type"
+msgstr "Tipo multimediale principale"
+
+#: ../functions.php:291
+msgid "Parent Media Type:"
+msgstr "Tipo multimediale principale:"
+
+#: ../functions.php:292
+msgid "Edit Media Type"
+msgstr "Modifica tipo multimediale"
+
+#: ../functions.php:293
+msgid "Update Media Type"
+msgstr "Aggiorna tipo multimediale"
+
+#: ../functions.php:294
+msgid "Add New Media Type"
+msgstr "Aggiungi nuovo tipo multimediale"
+
+#: ../functions.php:295
+msgid "New Media Type"
+msgstr "Nuovo tipo multimediale"
+
+#: ../functions.php:304
+msgid "Session Tracks"
+msgstr "Tracce di sessione"
+
+#: ../functions.php:305
+msgid "Session Track"
+msgstr "Traccia di sessione"
+
+#: ../functions.php:306
+msgid "Search Session Tracks"
+msgstr "Cerca tracce di sessione"
+
+#: ../functions.php:307
+msgid "All Session Tracks"
+msgstr "Tutte le tracce di sessione"
+
+#: ../functions.php:308
+msgid "Parent Session Track"
+msgstr "Traccia di sessione principale"
+
+#: ../functions.php:309
+msgid "Parent Session Track:"
+msgstr "Traccia di sessione principale:"
+
+#: ../functions.php:310
+msgid "Edit Session Track"
+msgstr "Modifica traccia di sessione"
+
+#: ../functions.php:311
+msgid "Update Session Track"
+msgstr "Aggiorna traccia di sessione"
+
+#: ../functions.php:312
+msgid "Add New Session Track"
+msgstr "Aggiungi nuova traccia di sessione"
+
+#: ../functions.php:313
+msgid "New Session Track"
+msgstr "Nuova traccia di sessione"
+
+#: ../functions.php:314
+msgid "Tracks"
+msgstr "Tracce"
+
+#: ../functions.php:322
+msgid "Session Locations"
+msgstr "Luoghi di sessione"
+
+#: ../functions.php:323
+msgid "Session Location"
+msgstr "Luogo di sessione"
+
+#: ../functions.php:324
+msgid "Search Session Locations"
+msgstr "Cerca luoghi di sessione"
+
+#: ../functions.php:325
+msgid "All Session Locations"
+msgstr "Tutti i luoghi di sessione"
+
+#: ../functions.php:326
+msgid "Parent Session Location"
+msgstr "Luogo di sessione principale"
+
+#: ../functions.php:327
+msgid "Parent Session Location:"
+msgstr "Luogo di sessione principale:"
+
+#: ../functions.php:328
+msgid "Edit Session Location"
+msgstr "Modifica luogo di sessione"
+
+#: ../functions.php:329
+msgid "Update Session Location"
+msgstr "Aggiorna luogo di sessione"
+
+#: ../functions.php:330
+msgid "Add New Session Location"
+msgstr "Aggiungi nuovo luogo di sessione"
+
+#: ../functions.php:331
+msgid "New Session Location"
+msgstr "Nuovo luogo di sessione"
+
+#: ../functions.php:332
+msgid "Locations"
+msgstr "Luoghi"
+
+#: ../functions.php:343 ../functions.php:356
+msgid "Color"
+msgstr "Colore"
+
+#: ../functions.php:372
+msgid "Media Content"
+msgstr "Contenuto multimediale"
+
+#: ../functions.php:373
+msgid "Additional Content"
+msgstr "Contenuto aggiuntivo"
+
+#: ../functions.php:374
+msgid "POI Address Info"
+msgstr "Info indirizzo punto d'interesse"
+
+#: ../functions.php:375
+msgid "Speaker Details"
+msgstr "Dettagli relatore"
+
+#: ../functions.php:376
+msgid "Session Details"
+msgstr "Dettagli sessione"
+
+#: ../functions.php:378
+msgid "Sponsor Details"
+msgstr "Dettagli sponsor"
+
+#: ../functions.php:382
+msgid "Event Over Content"
+msgstr "Evento su argomento"
+
+#: ../functions.php:390
+msgid "Video URL"
+msgstr "URL video"
+
+#: ../functions.php:400 ../functions.php:415
+msgid "Top Tagline"
+msgstr "Didascalia principale"
+
+#: ../functions.php:411
+msgid "Heading"
+msgstr "Titolo"
+
+#: ../functions.php:425
+msgid "Link"
+msgstr "Link"
+
+#: ../functions.php:439
+msgid "Street Address 1"
+msgstr "Indirizzo 1"
+
+#: ../functions.php:443
+msgid "Street Address 2"
+msgstr "Indirizzo 2"
+
+#: ../functions.php:447
+msgid "City"
+msgstr "Città"
+
+#: ../functions.php:451
+msgid "Postal Code / Zip Code"
+msgstr "Codice postale / CAP"
+
+#: ../functions.php:455
+msgid "Country"
+msgstr "Paese"
+
+#: ../functions.php:468
+msgid "Company"
+msgstr "Società"
+
+#: ../functions.php:472
+msgid "Short Bio"
+msgstr "Breve biografia"
+
+#: ../functions.php:481 ../functions.php:804
+msgid "Twitter Username"
+msgstr "Nome utente Twitter"
+
+#: ../functions.php:504
+msgid "Date"
+msgstr "Data"
+
+#: ../functions.php:509
+msgid "Start Time"
+msgstr "Ora d'inizio"
+
+#: ../functions.php:511 ../functions.php:516
+msgid "Format hh:mm"
+msgstr "Formato hh:mm"
+
+#: ../functions.php:514
+msgid "End Time"
+msgstr "Ora di fine"
+
+#: ../functions.php:615
+msgid "General Site Options"
+msgstr "Opzioni sito generale"
+
+#: ../functions.php:628
+msgid "Color Palette"
+msgstr "Tavolozza di colori"
+
+#: ../functions.php:655
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:669
+msgid "Footer Content"
+msgstr "Contenuto a piè di pagina"
+
+#: ../functions.php:678
+msgid "Homepage Options"
+msgstr "Opzioni homepage"
+
+#: ../functions.php:691
+msgid "Hero Background"
+msgstr "Sfondo di punta"
+
+#: ../functions.php:705
+msgid "Event Title"
+msgstr "Titolo evento"
+
+#: ../functions.php:719
+msgid "Event Tagline"
+msgstr "Didascalia evento"
+
+#: ../functions.php:727
+msgid "Event Over Settings"
+msgstr "Evento su impostazioni"
+
+#: ../functions.php:740
+msgid "Main Title"
+msgstr "Titolo principale"
+
+#: ../functions.php:754
+msgid "Main tagline"
+msgstr "Didascalia principale"
+
+#: ../functions.php:768
+msgid "Switch to Event Over Content?"
+msgstr "Passa a evento su argomento?"
+
+#: ../functions.php:777
+msgid "Social Media &amp; Connecting"
+msgstr "Social media &amp; connessione"
+
+#: ../functions.php:790
+msgid "Email Address"
+msgstr "Indirizzo e-mail"
+
+#: ../functions.php:818
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: ../functions.php:832
+msgid "Flickr Username"
+msgstr "Nome utente Flickr"
+
+#: ../functions.php:846
+msgid "Full LinkedIn URL"
+msgstr "URL LinkedIn"
+
+#: ../functions.php:860
+msgid "Pinterest Username"
+msgstr "Nome utente Pinterest"
+
+#: ../functions.php:893
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions.php:894
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: ../functions.php:894
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: ../functions.php:1352
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again.!"
+msgstr ""
+"Il reCAPTCHA non è stato inserito correttamente. Torna indietro e riprova!"
+
+#: ../functions.php:1358
+msgid "Forgot your name!"
+msgstr "Hai dimenticato il tuo nome!"
+
+#: ../functions.php:1365
+msgid "Forgot to enter in your e-mail address."
+msgstr "Hai dimenticato d'inserire il tuo indirizzo e-mail."
+
+#: ../functions.php:1368
+msgid "You entered an invalid email address."
+msgstr "Hai inserito un indirizzo e-mail non valido."
+
+#: ../functions.php:1376
+msgid "You forgot to enter a message!"
+msgstr "Hai dimenticato d'inserire un messaggio!"
+
+#: ../functions.php:1387
+msgid "Submitted message from "
+msgstr "Messaggio inviato da"
+
+#: ../functions.php:1388
+msgid "Name:"
+msgstr "Nome:"
+
+#: ../functions.php:1388
+msgid "Email:"
+msgstr "E-mail:"
+
+#: ../functions.php:1388
+msgid "Phone:"
+msgstr "Telefono:"
+
+#: ../functions.php:1388
+msgid "Comments:"
+msgstr "Commenti:"
+
+#: ../functions.php:1394
+msgid "Your email was sent."
+msgstr "La tua e-mail è stata inviata."
+
+#: ../functions.php:1396
+msgid "Error submitting the form"
+msgstr "Errore durante l'invio del modulo"
+
+#: ../functions.php:1418
+msgid "Fudge Dummy Data"
+msgstr "Dati fittizi"
+
+#: ../functions.php:1421
+msgid "Check to generate dummy data"
+msgstr "Seleziona per creare dati fittizi"
+
+#: ../functions.php:1423
+msgid "Generate"
+msgstr "Crea"
+
+#: ../functions.php:1437
+msgid "Order"
+msgstr "ordina"
+
+#: ../functions.php:1460 ../functions.php:1463 ../functions.php:1466
+#: ../functions.php:1469 ../functions.php:1472
+msgid " ago"
+msgstr "fa"
+
+#: ../functions.php:1473
+msgid "on "
+msgstr "su"
+
+#: ../header.php:27
+msgid "Event Over"
+msgstr "Evento su"
+
+#: ../header.php:35
+msgid "Register Now"
+msgstr "Registrati adesso"
+
+#: ../page-twitter-full-screen.php:25
+msgid "Back"
+msgstr "Indietro"
+
+#: ../search.php:3
+msgid "Search Results"
+msgstr "Cerca risultati"
+
+#: ../search.php:9
+msgid "No posts found. Try a different search?"
+msgstr "Nessun post trovato. Provare una ricerca diversa?"
+
+#: ../searchform.php:3
+msgid "search"
+msgstr "cerca"
+
+#: ../single.php:12
+msgid "Posted"
+msgstr "Pubblicato"
+
+#: ../single.php:24
+msgid "Back to list"
+msgstr "Torna all'elenco"
+
+#: ../single.php:24
+msgid "&laquo; Back To List"
+msgstr "&laquo; Torna all'elenco"
+
+#: ../espresso/templates/registration_page.php:295
+msgid ""
+"We are sorry but this event has reached the maximum number of attendees!"
+msgstr ""
+"Siamo spiacenti ma quest'evento ha raggiunto il numero massimo di "
+"partecipanti!"
+
+#: ../espresso/templates/registration_page.php:296
+msgid "Please check back in the event someone cancels."
+msgstr ""
+"Ti preghiamo di ricontrollare l'evento perché qualcuno ha disdetto la sua "
+"partecipazione."
+
+#: ../espresso/templates/registration_page.php:297
+msgid "Current Number of Attendees:"
+msgstr "Numero attuale di partecipanti:"
+
+#: ../espresso/templates/registration_page.php:303
+msgid "Join Waiting List"
+msgstr "Unisciti alla lista d'attesa"
+
+#: ../espresso/templates/registration_page.php:370
+msgid "This event has expired or is no longer available."
+msgstr "Quest'evento è scaduto o non è più disponibile."
+
+#: ../espresso/templates/registration_page_display.php:21
+msgid "This event has passed.</h3>"
+msgstr "Quest'evento è passato."
+
+#: ../espresso/templates/registration_page_display.php:31
+msgid "We are sorry but registration for this event is now closed."
+msgstr "Siamo spiacenti ma la registrazione per quest'evento è chiusa."
+
+#: ../espresso/templates/registration_page_display.php:36
+msgid ""
+"Please <a href=\"contact\" title=\"contact us\">contact us</a> if you would "
+"like to know if spaces are still available."
+msgstr ""
+"Ti preghiamo di <a href=\"contact\" title=\"contact us\">contattarci</a> se "
+"desideri sapere se ci sono ancora posti disponibili."
+
+#: ../espresso/templates/registration_page_display.php:51
+msgid "We are sorry but this event is not yet open for registration."
+msgstr ""
+"Siamo spiacenti ma quest'evento non è ancora aperto per la registrazione."
+
+#: ../espresso/templates/registration_page_display.php:57
+msgid "You will be able to register starting "
+msgstr "Potrai registrarti a partire da"
+
+#: ../espresso/templates/registration_page_display.php:101
+#: ../espresso/templates/registration_page_display.php:109
+msgid "Submit Registration"
+msgstr "Invia registrazione"
+
+#: ../functions/widget-connect.php:9
+msgid ""
+"Shows a section displaying icons for the social media links filled out in "
+"the Customizer"
+msgstr ""
+"Mostra una sezione che visualizza icone per i link ai social media riempite "
+"nel Customizer"
+
+#: ../functions/widget-connect.php:29 ../functions/widget-contact.php:37
+#: ../functions/widget-event-description.php:31
+#: ../functions/widget-media.php:35 ../functions/widget-news.php:33
+#: ../functions/widget-registration.php:35 ../functions/widget-schedule.php:37
+#: ../functions/widget-speakers.php:35 ../functions/widget-sponsors.php:32
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ../functions/widget-connect.php:32 ../functions/widget-contact.php:52
+#: ../functions/widget-event-description.php:37
+#: ../functions/widget-event-info.php:47 ../functions/widget-explore.php:42
+#: ../functions/widget-facebook-rsvp.php:38 ../functions/widget-media.php:47
+#: ../functions/widget-news.php:42 ../functions/widget-registration.php:47
+#: ../functions/widget-schedule.php:52 ../functions/widget-speakers.php:47
+#: ../functions/widget-sponsors.php:38 ../functions/widget-timer.php:47
+#: ../functions/widget-twitter.php:41
+msgid "Add to main navigation?"
+msgstr "Aggiungere alla navigazione principale?"
+
+#: ../functions/widget-connect.php:34 ../functions/widget-contact.php:54
+#: ../functions/widget-event-info.php:49 ../functions/widget-explore.php:44
+#: ../functions/widget-facebook-rsvp.php:40 ../functions/widget-media.php:49
+#: ../functions/widget-news.php:44 ../functions/widget-schedule.php:54
+#: ../functions/widget-speakers.php:49 ../functions/widget-sponsors.php:40
+#: ../functions/widget-timer.php:49 ../functions/widget-twitter.php:43
+msgid "(Enter desired menu link text)"
+msgstr "(Inserisci il testo al link di menu desiderato)"
+
+#: ../functions/widget-contact.php:9 ../functions/widget-news.php:9
+msgid "Shows a section displaying the latest four posts"
+msgstr "Mostra una sezione che visualizza gli ultimi quattro post"
+
+#: ../functions/widget-contact.php:40 ../functions/widget-media.php:38
+#: ../functions/widget-news.php:36 ../functions/widget-registration.php:38
+#: ../functions/widget-schedule.php:40 ../functions/widget-speakers.php:38
+#: ../functions/widget-sponsors.php:35
+msgid "Tagline:"
+msgstr "Didascalia:"
+
+#: ../functions/widget-contact.php:43
+msgid "Email Address To Send Forms To:"
+msgstr "Indirizzo e-mail a cui inviare i moduli:"
+
+#: ../functions/widget-contact.php:46
+msgid "Recaptcha Public Key:"
+msgstr "Chiave pubblica di recaptcha:"
+
+#: ../functions/widget-contact.php:49
+msgid "Recaptcha Private Key:"
+msgstr "Chiave pubblica di recaptcha:"
+
+#: ../functions/widget-event-description.php:9
+msgid "Shows the event description"
+msgstr "Mostra la descrizione dell'evento"
+
+#: ../functions/widget-event-description.php:34
+msgid "Content:"
+msgstr "Argomento:"
+
+#: ../functions/widget-event-info.php:9
+msgid "Shows a section displaying event time, date and location"
+msgstr ""
+"Mostra una sezione che visualizza l'ora, la data e il luogo dell'evento"
+
+#: ../functions/widget-event-info.php:35
+msgid "Event Date:"
+msgstr "Data dell'evento:"
+
+#: ../functions/widget-event-info.php:38
+msgid "Event Starting Time:"
+msgstr "Ora d'inizio dell'evento:"
+
+#: ../functions/widget-event-info.php:41
+msgid "Event City &amp; Country:"
+msgstr "Città &amp; paese dell'evento:"
+
+#: ../functions/widget-event-info.php:44
+msgid "Event Location:"
+msgstr "Luogo dell'evento:"
+
+#: ../functions/widget-event-info.php:70
+msgid "When"
+msgstr "Quando"
+
+#: ../functions/widget-event-info.php:72
+msgid "Starting at"
+msgstr "Inizio alle"
+
+#: ../functions/widget-event-info.php:75
+msgid "Where"
+msgstr "Dove"
+
+#: ../functions/widget-explore.php:9
+msgid "Shows a section displaying points of interest & maps"
+msgstr "Mostra una sezione che visualizza i punti d'interesse e le mappe"
+
+#: ../functions/widget-explore.php:33
+msgid "Main Title:"
+msgstr "Titolo principale:"
+
+#: ../functions/widget-explore.php:36
+msgid "Secondary Title"
+msgstr "Titolo secondario"
+
+#: ../functions/widget-explore.php:39
+msgid "Tagline"
+msgstr "Didascalia"
+
+#: ../functions/widget-facebook-rsvp.php:35
+msgid "Link to Event on Facebook:"
+msgstr "Link all'evento su Facebook:"
+
+#: ../functions/widget-facebook-rsvp.php:42
+msgid "Event ID:"
+msgstr "ID evento:"
+
+#: ../functions/widget-facebook-rsvp.php:45
+msgid "App ID:"
+msgstr "ID app:"
+
+#: ../functions/widget-facebook-rsvp.php:48
+msgid "Secret Key:"
+msgstr "Chiave segreta:"
+
+#: ../functions/widget-facebook-rsvp.php:76
+msgid "Yes"
+msgstr "Sì"
+
+#: ../functions/widget-facebook-rsvp.php:77
+msgid "Maybe"
+msgstr "Forse"
+
+#: ../functions/widget-facebook-rsvp.php:78
+msgid "No"
+msgstr "No"
+
+#: ../functions/widget-facebook-rsvp.php:79
+msgid "View on Facebook"
+msgstr "Visualizza su Facebook"
+
+#: ../functions/widget-media.php:9
+msgid ""
+"Shows a section displaying media by category in the media custom post type"
+msgstr ""
+"Mostra una sezione che visualizza i media per categoria nel tipo di post "
+"personalizzato Media"
+
+#: ../functions/widget-media.php:41 ../functions/widget-schedule.php:46
+#: ../functions/widget-speakers.php:41
+msgid "\"View More\" Button Text:"
+msgstr "Testo del pulsante \"Visualizza altro\":"
+
+#: ../functions/widget-media.php:44 ../functions/widget-schedule.php:49
+#: ../functions/widget-speakers.php:44
+msgid "\"View Less\" Button Text:"
+msgstr "Testo del pulsante \"Visualizza meno\":"
+
+#: ../functions/widget-media.php:71 ../functions/widget-media.php:89
+msgid "All Media"
+msgstr "Tutti i media"
+
+#: ../functions/widget-media.php:71 ../functions/widget-media.php:89
+msgid "All"
+msgstr "Tutto"
+
+#: ../functions/widget-media.php:87
+msgid "Filter Results"
+msgstr "Filtra risultati"
+
+#: ../functions/widget-media.php:107 ../functions/widget-schedule.php:142
+#: ../functions/widget-speakers.php:73
+msgid "View Less"
+msgstr "Visualizza meno"
+
+#: ../functions/widget-media.php:108 ../functions/widget-schedule.php:143
+#: ../functions/widget-speakers.php:74
+msgid "View More"
+msgstr "Visualizza altro"
+
+#: ../functions/widget-news.php:39
+msgid "Link:"
+msgstr "Link:"
+
+#: ../functions/widget-news.php:80
+msgid "View all News"
+msgstr "Visualizza tutte le notizie"
+
+#: ../functions/widget-quotes.php:9 ../functions/widget-twitter.php:9
+msgid "Shows a section displaying latest tweets"
+msgstr "Mostra una sezione che visualizza gli ultimi tweet"
+
+#: ../functions/widget-quotes.php:33 ../functions/widget-quotes.php:41
+msgid "Quote"
+msgstr "Cita"
+
+#: ../functions/widget-quotes.php:34 ../functions/widget-quotes.php:42
+msgid "Text"
+msgstr "Testo"
+
+#: ../functions/widget-quotes.php:37 ../functions/widget-quotes.php:45
+msgid "Time"
+msgstr "Ora"
+
+#: ../functions/widget-registration.php:9
+msgid "Shows registration information & ticket display"
+msgstr "Mostra le informazioni di registrazione e i biglietti"
+
+#: ../functions/widget-registration.php:41 ../functions/widget-schedule.php:43
+msgid "Main Text:"
+msgstr "Testo principale:"
+
+#: ../functions/widget-registration.php:44
+msgid "Registration Embed Code:"
+msgstr "Codice incorporato di registrazione:"
+
+#: ../functions/widget-schedule.php:9
+msgid "Displays Event Schedule widget"
+msgstr "Visualizza il widget Programma evento"
+
+#: ../functions/widget-schedule.php:95 ../functions/widget-schedule.php:111
+msgid "Filter by Track"
+msgstr "Filtra per traccia"
+
+#: ../functions/widget-schedule.php:111
+msgid "Filter By Track"
+msgstr "Filtra per traccia"
+
+#: ../functions/widget-schedule.php:113 ../functions/widget-schedule.php:128
+msgid "Reset"
+msgstr "Resetta"
+
+#: ../functions/widget-schedule.php:126
+msgid "Filter by Location"
+msgstr "Filtra per luogo"
+
+#: ../functions/widget-schedule.php:126
+msgid "Filter By Location"
+msgstr "Filtra per luogo"
+
+#: ../functions/widget-speakers.php:9
+msgid ""
+"Shows a section displaying speakers created in the Speakers custom post type"
+msgstr ""
+"Mostra una sezione che visualizza i relatori creati nel tipo di post "
+"personalizzato Relatori"
+
+#: ../functions/widget-sponsors.php:9
+msgid ""
+"Shows a section displaying sponsors by tier type created in the Sponsors "
+"custom post type"
+msgstr ""
+"Mostra una sezione che visualizza gli sponsor per tipo di livello creato "
+"negli Sponsor"
+
+#: ../functions/widget-sponsors.php:96
+msgid "Sponsor this event"
+msgstr "Sponsorizza quest'evento"
+
+#: ../functions/widget-sponsors.php:96
+msgid "Sponsor The Event"
+msgstr "Sponsorizza l'evento"
+
+#: ../functions/widget-timer.php:9
+msgid "Shows a section displaying the event coundown clock"
+msgstr "Mostra una sezione che visualizza il conto alla rovescia dell'evento"
+
+#: ../functions/widget-timer.php:51
+msgid "Countdown Date:"
+msgstr "Conto alla rovescia:"
+
+#: ../functions/widget-timer.php:76
+msgid "Days"
+msgstr "Giorni"
+
+#: ../functions/widget-timer.php:81
+msgid "Hours"
+msgstr "Ore"
+
+#: ../functions/widget-timer.php:86
+msgid "Minutes"
+msgstr "Minuti"
+
+#: ../functions/widget-timer.php:91
+msgid "Seconds"
+msgstr "Secondi"
+
+#: ../functions/widget-twitter.php:37
+msgid "Event Hashtag Keyword:"
+msgstr "Hashtag evento:"
+
+#: ../functions/widget-twitter.php:39
+msgid "(Leave out the #)"
+msgstr "(Escludi il #)"
+
+#: ../functions/widget-twitter.php:45
+msgid "Access Token:"
+msgstr "Token d'accesso:"
+
+#: ../functions/widget-twitter.php:48
+msgid "Access Token Secret:"
+msgstr "Token d'accesso segreto:"
+
+#: ../functions/widget-twitter.php:51
+msgid "Consumer Key:"
+msgstr "Chiave consumatore:"
+
+#: ../functions/widget-twitter.php:54
+msgid "Consumer Secret:"
+msgstr "Segreto consumatore:"
+
+#: ../functions/widget-twitter.php:83
+msgid "No items"
+msgstr "Nessun elemento"
+
+#: ../functions/widget-twitter.php:97
+msgid "View in Fullscreen"
+msgstr "Visualizza a schermo intero"
+
+#: ../functions/widget-twitter.php:100
+msgid "Tweet "
+msgstr "Twitta"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:465
+msgid "Delete this image"
+msgstr "Elimina quest'immagine"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:434
+#: ../lib/taxonomy-meta.php:465
+msgid "Delete"
+msgstr "Elimina"
+
+#: ../lib/taxonomy-meta.php:440
+msgid "Upload new files"
+msgstr "Carica nuovi file"
+
+#: ../lib/taxonomy-meta.php:443
+msgid "Add more file"
+msgstr "Aggiungi più file"
+
+#: ../lib/taxonomy-meta.php:471
+msgid "Upload new image"
+msgstr "Carica nuova immagine"
+
+#: ../lib/taxonomy-meta.php:479
+msgid "Select a color"
+msgstr "Seleziona un colore"
